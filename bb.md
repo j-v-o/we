@@ -5,7 +5,8 @@
 4)  [How To Increase Page File Size In Linux? – Systran Box](https://www.systranbox.com/how-to-increase-page-file-size-in-linux/) 
 5)  -- [SwapFaq - Community Help Wiki](https://help.ubuntu.com/community/SwapFaq) 
 6)  [ram - Is it safe to flush the swap space? - Ask Ubuntu](https://askubuntu.com/questions/1185561/is-it-safe-to-flush-the-swap-space) 
-7)  
+7)  [How to change the Swappiness of your Linux system](https://www.howtoforge.com/tutorial/linux-swappiness/) 
+8)  
 
 #hardware 
 1) SSD  
