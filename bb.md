@@ -7,3 +7,5 @@
 6)  
 
 #hardware 
+1) SSD  
+2)  
