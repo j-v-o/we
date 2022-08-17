@@ -23,4 +23,5 @@
 1) [PHP: $_POST - Manual](https://www.php.net/manual/en/reserved.variables.post.php) 
 2) [http - How do I send a POST request with PHP? - Stack Overflow](https://stackoverflow.com/questions/5647461/how-do-i-send-a-post-request-with-php) 
 3) [PHP: $_GET - Manual](https://www.php.net/manual/en/reserved.variables.get.php) 
-4) 
+4) [5 Ways to Make HTTP Requests in PHP](https://www.twilio.com/blog/5-ways-to-make-http-requests-in-php) 
+5) 
