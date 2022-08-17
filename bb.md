@@ -12,6 +12,10 @@
 1) SSD  
 2)  
 
+#services dev 
+1) [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/) 
+2) 
+
 #HTTP methods 
 
 ##javascript 
