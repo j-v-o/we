@@ -15,3 +15,7 @@
 ### linphone []
 - no-proxy 
 - 
+
+### zopier []
+- [Download Zoiper 5, a free VoIP softphone :: Zoiper](https://www.zoiper.com/en/voip-softphone/download/current) 
+- 
