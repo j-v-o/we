@@ -9,7 +9,9 @@
 ### jami []
 - internal acc 
 - https://forum.jami.net/t/creating-sip-account/39/2
+- https://forum.jami.net/t/pjsip-softphone-not-working-while-sip-does-is-pjsip-unsupported-for-sip-softphone/172 
 - 
 
 ### linphone []
 - no-proxy 
+- 
