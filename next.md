@@ -4,6 +4,7 @@
 ## .. but, goto N+1 :) 
 - https://www.slant.co/topics/6937/~voip-clients-for-linux
 - https://help.ubuntu.com/community/SoftPhone 
+- [Using SIP Devices behind NAT – The Smartvox Knowledgebase](https://kb.smartvox.co.uk/voip-sip/sip-devices-nat/) 
 - 
 
 ### jami [registered]
