@@ -21,3 +21,7 @@
 ### zoiper []
 - [Download Zoiper 5, a free VoIP softphone :: Zoiper](https://www.zoiper.com/en/voip-softphone/download/current) 
 - 
+
+## pcap sniffing 
+- [How to run a packet capture in an Asterisk system (tcpdump)](https://support.digium.com/s/article/How-to-run-a-packet-capture-in-an-Asterisk-system-tcpdump) 
+- 
