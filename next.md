@@ -5,7 +5,7 @@
 - 🏛️ https://www.slant.co/topics/6937/~voip-clients-for-linux
 - https://help.ubuntu.com/community/SoftPhone 
 - 📺 [Using SIP Devices behind NAT – The Smartvox Knowledgebase](https://kb.smartvox.co.uk/voip-sip/sip-devices-nat/)  {https://www.youtube.com/watch?v=4dLJmZOcWFc [6:30]} 
-- 📖 [WebRTC Basics eCourse](https://webrtc.ventures/webrtc-basics-course/) 
+- 📚 [WebRTC Basics eCourse](https://webrtc.ventures/webrtc-basics-course/) 
 - 
 
 ### jami [reg] 
@@ -31,4 +31,5 @@
 - [Asterisk - PCAPs for Support - Powered by Kayako http://support.esi-estech.com/index.php? Help Desk Software](http://support.esi-estech.com/index.php?/Knowledgebase/Article/View/51/3/asterisk---pcaps-for-support) 
 - 📺 [How to Capture and Debug SIP Packets from asterisk using tcpdump and Wireshark - YouTube](https://www.youtube.com/watch?v=OFpQLyQxt84) \
 - (internal Asterisk DEBUG command?) 
+- 🧲 [Wireshark - tcpdump trace on PBX - PBX GUI - Documentation](https://wiki.freepbx.org/display/FPG/Wireshark+-+tcpdump+trace+on+PBX) 
 - 
