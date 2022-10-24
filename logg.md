@@ -5,6 +5,7 @@
 ### google-ing 1  
 - https://catonmat.net/awk-one-liners-explained-part-three
 - https://www.gnu.org/software/gawk/manual/html_node/Very-Simple.html
+- https://stackoverflow.com/questions/27986425/using-awk-to-count-the-number-of-occurrences-of-a-word-in-a-column
 - 
 
 ### google-ing 2
