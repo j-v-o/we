@@ -8,8 +8,9 @@ For the log sample below please create two shell scripts (either one-line comman
 - IP address
 - userNN field
 }
-	MyFiles/Downloads/test_log_task.txt
-	
+MyFiles/Downloads/test_log_task.txt
+***
+
 	1.
 (grep%) | awk% | sed% | >>	
 https://www.cyberciti.biz/faq/grep-regular-expressions/	
@@ -27,7 +28,6 @@ domain000110.hz-void.internal 3
  15
 domain00010.hz-void.internal 12
 domain000120.hz-void.internal 5
-
 	
 	2.
 awk% | date -d @ +%d/%m/%Y% | grep% >>	
@@ -45,7 +45,6 @@ https://stackoverflow.com/questions/2371248/how-to-convert-timestamps-to-dates-i
 	grep -E "[[:digit:]]{10}" test_log-commas -o | { read utt ; date -d "@$utt" ;  } 
 	awk -F, '{ count[$8]++; print $2, $10, $8 } END { }' test_log-commas 
 	grep -E "[[:digit:]]{1,3}+\.+[[:digit:]]{1,3}" test_log-commas 
-	grep -E "([[:digit:]]{10}+\,|user[[:digit:]]{1,3}+\,|[[:digit:]]{1,3}+\.+[[:digit:]]{1,3}+\.+[[:digit:]]{1,3}+\.+[[:digit:]]{1,3})" test_log-commas 
-	
+	grep -E "([[:digit:]]{10}+\,|user[[:digit:]]{1,3}+\,|[[:digit:]]{1,3}+\.+[[:digit:]]{1,3}+\.+[[:digit:]]{1,3}+\.+[[:digit:]]{1,3})" test_log-commas 	
 
 }
