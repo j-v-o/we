@@ -6,11 +6,13 @@
 5)  -- [SwapFaq - Community Help Wiki](https://help.ubuntu.com/community/SwapFaq) 
 6)  [ram - Is it safe to flush the swap space? - Ask Ubuntu](https://askubuntu.com/questions/1185561/is-it-safe-to-flush-the-swap-space) 
 7)  [How to change the Swappiness of your Linux system](https://www.howtoforge.com/tutorial/linux-swappiness/) 
-8)  
+8)  [KDE neon](https://neon.kde.org/faq) 
+9)  
 
 #hardware 
-1) SSD  
-2)  
+1) SSD (GoldFire™️ ?)  
+2) memory module 16:G ::SO-DIMM 
+3) 
 
 #services dev 
 1) [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/) 
