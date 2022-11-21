@@ -8,13 +8,18 @@
 - 📚 [WebRTC Basics eCourse](https://webrtc.ventures/webrtc-basics-course/) 
 - 
 
-### jami [reg] 
+## android+sip+client+comparison 
+- http://www.webvoipphone.com/compare_android_softphone.html
+- 
+
+### jami [reg, setup] 
 - https://forum.jami.net/t/creating-sip-account/39/2
 - https://forum.jami.net/t/pjsip-softphone-not-working-while-sip-does-is-pjsip-unsupported-for-sip-softphone/172 
 - 
 
-### linphone [] 
+### linphone [reg, setup] 
 - no-proxy 
+- TCP capable 
 - 
 
 ### zoiper [] 
@@ -32,4 +37,4 @@
 - 📺 [How to Capture and Debug SIP Packets from asterisk using tcpdump and Wireshark - YouTube](https://www.youtube.com/watch?v=OFpQLyQxt84) \
 - (internal Asterisk DEBUG command?) 
 - 🧲 [Wireshark - tcpdump trace on PBX - PBX GUI - Documentation](https://wiki.freepbx.org/display/FPG/Wireshark+-+tcpdump+trace+on+PBX) 
-- 
+
