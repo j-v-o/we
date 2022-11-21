@@ -7,7 +7,11 @@
 6)  [ram - Is it safe to flush the swap space? - Ask Ubuntu](https://askubuntu.com/questions/1185561/is-it-safe-to-flush-the-swap-space) 
 7)  [How to change the Swappiness of your Linux system](https://www.howtoforge.com/tutorial/linux-swappiness/) 
 8)  [KDE neon](https://neon.kde.org/faq) 
-9)  ?howto ```play swf``` in browser or standalone app
+9)  howto ```play swf``` in browser or standalone app
+  - 1
+  - 2
+  - 3 general 
+
 10)  
 
 #hardware 
