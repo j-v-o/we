@@ -12,18 +12,19 @@
 - http://www.webvoipphone.com/compare_android_softphone.html
 - 
 
-### jami [reg, setup] 
+### jami [reg, install via DEB ] 
 - https://forum.jami.net/t/creating-sip-account/39/2
 - https://forum.jami.net/t/pjsip-softphone-not-working-while-sip-does-is-pjsip-unsupported-for-sip-softphone/172 
 - 
 
-### linphone [reg, setup] 
+### linphone [reg, install via APPIMAGE ] 
 - no-proxy 
 - TCP capable 
 - 
 
-### zoiper [] 
+### zoiper [install via Zoiper5_5.5.13_x86_64.deb ] 
 - [Download Zoiper 5, a free VoIP softphone :: Zoiper](https://www.zoiper.com/en/voip-softphone/download/current) 
+- great classic tool! 
 - 
 
 ## +1-8nnxxxxxxx toll-free termination VoIP 
