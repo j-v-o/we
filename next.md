@@ -27,6 +27,11 @@
 - great classic tool, sophisticated, 
 - resource-greedy.. 
 
+### [Android Softphone](https://www.mizu-voip.com/Software/Softphones/AndroidSoftphone.aspx)
+- it works 
+
+### [Sipdroid | Free SIP/VoIP client for Android](http://sipdroid.org/)
+
 ## +1-8nnxxxxxxx toll-free termination VoIP 
 - [Toll Free Termination - Teleinx VoIP telecommunications](http://www.teleinx.com/toll-free-termination) 
 - 💙 [Toll Free Termination, Toll Free VoIP, 18YY, Retail & .. - Star Communication](https://starcompartners.com/termination#tollfree) 
