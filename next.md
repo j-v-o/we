@@ -27,10 +27,12 @@
 - great classic tool, sophisticated, 
 - resource-greedy.. 
 
-### [Android Softphone](https://www.mizu-voip.com/Software/Softphones/AndroidSoftphone.aspx)
+### mizuDroid [install via playMarket]
+- [Android Softphone](https://www.mizu-voip.com/Software/Softphones/AndroidSoftphone.aspx)
 - it works 
 
-### [Sipdroid | Free SIP/VoIP client for Android](http://sipdroid.org/)
+### sipDroid []
+- [Sipdroid | Free SIP/VoIP client for Android](http://sipdroid.org/)
 
 ## +1-8nnxxxxxxx toll-free termination VoIP 
 - [Toll Free Termination - Teleinx VoIP telecommunications](http://www.teleinx.com/toll-free-termination) 
