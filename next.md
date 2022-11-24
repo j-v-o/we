@@ -17,12 +17,12 @@
 - TCP capable, 
 - complicated menu and settings 
 
-🖥️ ### zoiper [install via Zoiper5_5.5.13_x86_64.deb ] 
+### 🖥️ zoiper [install via Zoiper5_5.5.13_x86_64.deb ] 
 - [Download Zoiper 5, a free VoIP softphone :: Zoiper](https://www.zoiper.com/en/voip-softphone/download/current) 
 - great classic tool, sophisticated, have deep settings 
 - quite resource-greedy.. 
 
-📱 ### mizuDroid [install via playMarket ] 
+### 📱 mizuDroid [install via playMarket ] 
 - [Android Softphone](https://www.mizu-voip.com/Software/Softphones/AndroidSoftphone.aspx)
 - it works acceptable 
 - have good settings range.. 
