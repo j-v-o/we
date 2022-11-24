@@ -25,7 +25,8 @@
 ### 📱 mizuDroid [install via playMarket ] 
 - [Android Softphone](https://www.mizu-voip.com/Software/Softphones/AndroidSoftphone.aspx)
 - it works acceptable 
-- have good settings range.. 
+- have good settings range
+- works with it`s own proxy 
 
 ### sipDroid []
 - [Sipdroid | Free SIP/VoIP client for Android](http://sipdroid.org/)
