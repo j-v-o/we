@@ -17,12 +17,12 @@
 - TCP capable, 
 - complicated menu and settings 
 
-### zoiper [install via Zoiper5_5.5.13_x86_64.deb ] 🖥️
+🖥️ ### zoiper [install via Zoiper5_5.5.13_x86_64.deb ] 
 - [Download Zoiper 5, a free VoIP softphone :: Zoiper](https://www.zoiper.com/en/voip-softphone/download/current) 
 - great classic tool, sophisticated, have deep settings 
 - quite resource-greedy.. 
 
-### mizuDroid [install via playMarket ] 📱
+📱 ### mizuDroid [install via playMarket ] 
 - [Android Softphone](https://www.mizu-voip.com/Software/Softphones/AndroidSoftphone.aspx)
 - it works acceptable 
 - have good settings range.. 
@@ -30,10 +30,10 @@
 ### sipDroid []
 - [Sipdroid | Free SIP/VoIP client for Android](http://sipdroid.org/)
 
+
 ## +1-8nnxxxxxxx toll-free termination VoIP 
 - [Toll Free Termination - Teleinx VoIP telecommunications](http://www.teleinx.com/toll-free-termination) 
 - 💙 [Toll Free Termination, Toll Free VoIP, 18YY, Retail & .. - Star Communication](https://starcompartners.com/termination#tollfree) 
-- 
 
 ## PCAP session sniffing [tcpdump, wiredhark, ..]
 - [How to run a packet capture in an Asterisk system (tcpdump)](https://support.digium.com/s/article/How-to-run-a-packet-capture-in-an-Asterisk-system-tcpdump) 
@@ -41,4 +41,3 @@
 - 📺 [How to Capture and Debug SIP Packets from asterisk using tcpdump and Wireshark - YouTube](https://www.youtube.com/watch?v=OFpQLyQxt84) \
 - (internal Asterisk DEBUG command?) 
 - 🧲 [Wireshark - tcpdump trace on PBX - PBX GUI - Documentation](https://wiki.freepbx.org/display/FPG/Wireshark+-+tcpdump+trace+on+PBX) 
-
