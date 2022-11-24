@@ -1,7 +1,4 @@
-## step N
-- is better than N-1 
-
-## .. but, goto N+1 :) 
+## .. let`s goto Step N+1 🌟 [since 2022 November]
 - 🏛️ https://www.slant.co/topics/6937/~voip-clients-for-linux
 - https://help.ubuntu.com/community/SoftPhone 
 - [Using SIP Devices behind NAT – The Smartvox Knowledgebase](https://kb.smartvox.co.uk/voip-sip/sip-devices-nat/)  [ 📺 6:30 ](https://www.youtube.com/watch?v=4dLJmZOcWFc)  
