@@ -7,11 +7,11 @@
 - http://www.webvoipphone.com/compare_android_softphone.html
 - 
 
-### jami [reg, install via DEB ] 
+### 🖥️ jami [reg, install via DEB ] 
 - https://forum.jami.net/t/creating-sip-account/39/2
 - simple, fast, but strange, not flexible 
 
-### linphone [reg, install via APPIMAGE ] 
+### 🖥️ linphone [reg, install via APPIMAGE ] 
 - no-proxy 
 - TCP capable, 
 - complicated menu and settings 
@@ -31,6 +31,7 @@
 
 ### sipDroid []
 - [Sipdroid | Free SIP/VoIP client for Android](http://sipdroid.org/)
+- 
 
 
 
