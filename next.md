@@ -5,6 +5,7 @@
 - 📚 [WebRTC Basics eCourse](https://webrtc.ventures/webrtc-basics-course/) 
 - "android+sip+client+comparison"
 - http://www.webvoipphone.com/compare_android_softphone.html
+- **DID meaning** 
 - 
 
 ### 🖥️ jami [reg, install via DEB ] 
