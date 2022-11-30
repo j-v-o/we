@@ -34,6 +34,10 @@
 - [Sipdroid | Free SIP/VoIP client for Android](http://sipdroid.org/)
 - 
 
+___
+## later 
+- [Contact and Record-Route headers explained – The Smartvox Knowledgebase](https://kb.smartvox.co.uk/opensips/contact-and-record-route-headers-explained/)
+- 
 
 
 ___
