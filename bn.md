@@ -8,11 +8,12 @@
 7)  [How to change the Swappiness of your Linux system](https://www.howtoforge.com/tutorial/linux-swappiness/) 
 8)  [KDE neon](https://neon.kde.org/faq) 
 9)  howto ```play swf``` in browser or standalone app
-  - 1
-  - 2
-  - 3 general 
-
-10)  
+  - 1 player 
+  - 2 online service 
+  - 3 converter  
+10)  [25 Useful IPtable Firewall Rules Every Linux Administrator Should Know](https://www.tecmint.com/linux-iptables-firewall-rules-examples-commands/) 
+11)  [Linux firewalls: What you need to know about iptables and firewalld | Opensource.com](https://opensource.com/article/18/9/linux-iptables-firewalld) 
+12)  
 
 #hardware 
 1) SSD (GoldFire™️ ?)  
@@ -21,7 +22,8 @@
 
 #services dev 
 1) [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/) 
-2) 
+2) [SSL Converter - Convert SSL Certificates to different formats](https://www.sslshopper.com/ssl-converter.html) 
+3) 
 
 #HTTP methods 
 
