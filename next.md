@@ -7,7 +7,9 @@
 - http://www.webvoipphone.com/compare_android_softphone.html
 - **DID meaning** { direct inward dial OR dial-in } 
   - ( searching on https://www.3cx.com/community/search/ )
+  - [Dialed Number Identification Service - Wikipedia](https://en.wikipedia.org/wiki/Dialed_Number_Identification_Service)
   - 
+
 - 
 
 ### 🖥️ jami [reg, install via DEB ] 
