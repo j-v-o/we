@@ -6,6 +6,8 @@
 - "android+sip+client+comparison"
 - http://www.webvoipphone.com/compare_android_softphone.html
 - **DID meaning** { direct inward dial OR dial-in } 
+  - ( searching on https://www.3cx.com/community/search/ )
+  - 
 - 
 
 ### 🖥️ jami [reg, install via DEB ] 
