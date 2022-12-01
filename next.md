@@ -5,7 +5,7 @@
 - 📚 [WebRTC Basics eCourse](https://webrtc.ventures/webrtc-basics-course/) 
 - "android+sip+client+comparison"
 - http://www.webvoipphone.com/compare_android_softphone.html
-- **DID meaning** 
+- **DID meaning** { direct inward dial OR dial-in } 
 - 
 
 ### 🖥️ jami [reg, install via DEB ] 
