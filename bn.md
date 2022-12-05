@@ -18,6 +18,7 @@
    - [How to Install AWS CLI on Ubuntu 20.04 Focal Fossa Linux - Linux Tutorials - Learn Linux Configuration](https://linuxconfig.org/how-to-install-aws-cli-on-ubuntu-20-04-focal-fossa-linux)
    - [Installing or updating the latest version of the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 14)  [Fix Brightness Problem In Ubuntu 22.04 LTS | Itsubuntu.com](https://itsubuntu.com/fix-brightness-problem-in-ubuntu-22-04-lts/) 
+   - ['xrandr' command (solved) - Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=275268) 
 15)  
 
 
