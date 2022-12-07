@@ -40,6 +40,7 @@
 ___
 ## later 
 - [Contact and Record-Route headers explained – The Smartvox Knowledgebase](https://kb.smartvox.co.uk/opensips/contact-and-record-route-headers-explained/)
+- [Fundamentals of computer networking - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/network-fundamentals/) {```46 min remaining, You'll learn the fundamental principles of computer networking to prepare you for the Azure admin and developer learning paths.```}
 - 
 
 
