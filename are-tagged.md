@@ -31,12 +31,12 @@
 3) DC (12V ) invertor 
 4) 
 
-#services dev 
+#services_dev 
 1) [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/) 
 2) [SSL Converter - Convert SSL Certificates to different formats](https://www.sslshopper.com/ssl-converter.html) 
 3) 
 
-#HTTP methods 
+#HTTP_methods 
 
 ##javascript 
 1) [Using the Fetch API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) 
@@ -49,3 +49,7 @@
 3) [PHP: $_GET - Manual](https://www.php.net/manual/en/reserved.variables.get.php) 
 4) [5 Ways to Make HTTP Requests in PHP](https://www.twilio.com/blog/5-ways-to-make-http-requests-in-php) 
 5) 
+
+##askubuntu 
+- https://askubuntu.com/help/privileges/community-wiki
+- 
