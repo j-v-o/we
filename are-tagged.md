@@ -19,7 +19,7 @@
    - [Installing or updating the latest version of the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 14)  [Fix Brightness Problem In Ubuntu 22.04 LTS | Itsubuntu.com](https://itsubuntu.com/fix-brightness-problem-in-ubuntu-22-04-lts/) 
    - ['xrandr' command (solved) - Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=275268) 
-15)  https://uk.wikipedia.org/wiki/Yocto_Project
+15)  https://uk.wikipedia.org/wiki/Yocto_Project ```{The Yocto Project is a Linux Foundation collaborative open source project whose goal is to produce tools and processes that enable the creation of Linux distributions for embedded and IoT software that are independent of the underlying architecture of the embedded hardware. The project was announced by the Linux Foundation in 2010 and launched in March, 2011, in collaboration with 22 organizations, including OpenEmbedded.....}```
 16)  
 
 
