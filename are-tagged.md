@@ -19,7 +19,8 @@
    - [Installing or updating the latest version of the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 14)  [Fix Brightness Problem In Ubuntu 22.04 LTS | Itsubuntu.com](https://itsubuntu.com/fix-brightness-problem-in-ubuntu-22-04-lts/) 
    - ['xrandr' command (solved) - Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=275268) 
-15)  
+15)  https://uk.wikipedia.org/wiki/Yocto_Project
+16)  
 
 
 
