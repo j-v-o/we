@@ -12,7 +12,7 @@
   - 2 online service 
   - 3 converter  
 10)  [25 Useful IPtable Firewall Rules Every Linux Administrator Should Know](https://www.tecmint.com/linux-iptables-firewall-rules-examples-commands/) 
-11)  [Linux firewalls: What you need to know about iptables and firewalld | Opensource.com](https://opensource.com/article/18/9/linux-iptables-firewalld) 
+  - [Linux firewalls: What you need to know about iptables and firewalld | Opensource.com](https://opensource.com/article/18/9/linux-iptables-firewalld) 
 12)  [Snap Store — Linux Mint User Guide documentation](https://linuxmint-user-guide.readthedocs.io/en/latest/snap.html)
 13)  AWS related 
    - [How to Install AWS CLI on Ubuntu 20.04 Focal Fossa Linux - Linux Tutorials - Learn Linux Configuration](https://linuxconfig.org/how-to-install-aws-cli-on-ubuntu-20-04-focal-fossa-linux)
