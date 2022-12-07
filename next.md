@@ -1,15 +1,16 @@
-## .. let`s goto Step N+1 🌟 [since 2022 November]
+## .. let`s goto Step N+1 🌟 [ 2022 November December ]
 - 🏛️ https://www.slant.co/topics/6937/~voip-clients-for-linux
 - https://help.ubuntu.com/community/SoftPhone 
 - [Using SIP Devices behind NAT – The Smartvox Knowledgebase](https://kb.smartvox.co.uk/voip-sip/sip-devices-nat/)  [ 📺 6:30 ](https://www.youtube.com/watch?v=4dLJmZOcWFc)  
 - 📚 [WebRTC Basics eCourse](https://webrtc.ventures/webrtc-basics-course/) 
-- "android+sip+client+comparison"
+- "android+sip+client+comparison" 
 - http://www.webvoipphone.com/compare_android_softphone.html
-- **DID meaning** { direct inward dial OR dial-in } 
+- 🎹 **DID number** { ```Direct Inward Dial``` OR ```dial-in``` } 
   - ( searching on https://www.3cx.com/community/search/ )
   - [Dialed Number Identification Service - Wikipedia](https://en.wikipedia.org/wiki/Dialed_Number_Identification_Service) 
-- [Welcome to SIPp](https://sipp.sourceforge.net/) 
+- 📞 [Welcome to SIPp](https://sipp.sourceforge.net/) 
 - 
+
 
 ### 🖥️ jami [reg, install via DEB ] 
 - https://forum.jami.net/t/creating-sip-account/39/2
@@ -35,7 +36,7 @@
 
 ### sipDroid []
 - [Sipdroid | Free SIP/VoIP client for Android](http://sipdroid.org/)
-- 
+
 
 ___
 ## later 
