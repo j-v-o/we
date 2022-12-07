@@ -2,8 +2,7 @@
 - 🏛️ https://www.slant.co/topics/6937/~voip-clients-for-linux
 - https://help.ubuntu.com/community/SoftPhone 
 - [Using SIP Devices behind NAT – The Smartvox Knowledgebase](https://kb.smartvox.co.uk/voip-sip/sip-devices-nat/)  [ 📺 6:30 ](https://www.youtube.com/watch?v=4dLJmZOcWFc)  
-- 📚 [WebRTC Basics eCourse](https://webrtc.ventures/webrtc-basics-course/) 
-- "android+sip+client+comparison" 
+- 📚 [WebRTC Basics eCourse](https://webrtc.ventures/webrtc-basics-course/)  
 - http://www.webvoipphone.com/compare_android_softphone.html
 - 🎹 **DID number** { ```Direct Inward Dial``` OR ```dial-in``` } 
   - ( searching on https://www.3cx.com/community/search/ )
