@@ -1,11 +1,11 @@
 # linux 
 1)  [swap - How do I increase swapfile in Ubuntu 18.04? - Ask Ubuntu](https://askubuntu.com/questions/1075505/how-do-i-increase-swapfile-in-ubuntu-18-04); [Change Swap Size in Ubuntu](https://linuxhint.com/change_swap_size_ubuntu/); [Change swap size in Ubuntu 18.04 or newer - Bogdan Cornianu](https://bogdancornianu.com/change-swap-size-in-ubuntu/); [How To Increase Page File Size In Linux? – Systran Box](https://www.systranbox.com/how-to-increase-page-file-size-in-linux/); [SwapFaq - Community Help Wiki](https://help.ubuntu.com/community/SwapFaq); [ram - Is it safe to flush the swap space? - Ask Ubuntu](https://askubuntu.com/questions/1185561/is-it-safe-to-flush-the-swap-space); [How to change the Swappiness of your Linux system](https://www.howtoforge.com/tutorial/linux-swappiness/) 
-8)  alt to GNOME desktop 👯 [KDE neon](https://neon.kde.org/faq) 
+8)  alternative to GNOME desktop 👯 [KDE neon](https://neon.kde.org/faq) 
 9)  howto ```play swf``` (browser or standalone app) { 1 player app; 2 online plaing service; 3 converter } 
 10)  [25 Useful IPtable Firewall Rules Every Linux Administrator Should Know](https://www.tecmint.com/linux-iptables-firewall-rules-examples-commands/) 
   - [Linux firewalls: What you need to know about iptables and firewalld | Opensource.com](https://opensource.com/article/18/9/linux-iptables-firewalld) 
-12)  later 💥 [Snap Store — Linux Mint User Guide documentation](https://linuxmint-user-guide.readthedocs.io/en/latest/snap.html)
-13)  AWS-related 
+12)  later 💥 [Snap Store — Linux Mint User Guide documentation](https://linuxmint-user-guide.readthedocs.io/en/latest/snap.html) ```Similar to AppImage or Flatpak the Snap Store is able to provide up to date software no matter what version of Linux you are running and how old your libraries are..... Although it is open-source, Snap on the other hand, only works with the Ubuntu Store. Nobody knows how to make a Snap Store and nobody can. The Snap client is designed to work with only one source.....```
+13)  AWS-related -- 
    - [How to Install AWS CLI on Ubuntu 20.04 Focal Fossa Linux - Linux Tutorials - Learn Linux Configuration](https://linuxconfig.org/how-to-install-aws-cli-on-ubuntu-20-04-focal-fossa-linux)
    - [Installing or updating the latest version of the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 14)  try later 🍽️ [Fix Brightness Problem In Ubuntu 22.04 LTS | Itsubuntu.com](https://itsubuntu.com/fix-brightness-problem-in-ubuntu-22-04-lts/) 
