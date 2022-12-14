@@ -13,7 +13,9 @@
 15)  https://uk.wikipedia.org/wiki/Yocto_Project ```The Yocto Project is a Linux Foundation collaborative open source project whose goal is to produce tools and processes that enable the creation of Linux distributions for embedded and IoT software that are independent of the underlying architecture of the embedded hardware. The project was announced by the Linux Foundation in 2010 and launched in March, 2011, in collaboration with 22 organizations, including OpenEmbedded.....```
 16)  https://meta.stackexchange.com/questions/384355/could-chatgpt-be-a-viable-way-to-answer-peoples-questions #future-trends #ai 
 17)  🔑 [Projects/GnomeShell/CheatSheet - GNOME Wiki!](https://wiki.gnome.org/Projects/GnomeShell/CheatSheet#Developer_tools) 
-18)  
+18)  https://www.cyberciti.biz/faq/howto-set-date-and-time-timezone-in-freebsd/ 🌐 ⏲️ 🪛
+19)  https://www.freebsd.org/cgi/man.cgi?csh(1) 👰‍♀️ ㊗️ 
+20)  
 
 
 
