@@ -16,8 +16,8 @@
 18)  https://www.cyberciti.biz/faq/howto-set-date-and-time-timezone-in-freebsd/ 🌐 ⏲️ 🪛 
 19)  https://docs.freebsd.org/en/books/handbook/bsdinstall/ 
 20)  https://www.freebsd.org/cgi/man.cgi?csh(1) 👰‍♀️ ㊗️ 
-21)  
-
+21)  [How to configure network settings in FreeBSD - Serverlab](https://www.serverlab.ca/tutorials/unix/how-to-set-static-ip-and-dhcp-in-freebsd/)
+22)  
 
 
 # hardware 
