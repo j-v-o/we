@@ -19,7 +19,9 @@
 21)  [How to configure network settings in FreeBSD - Serverlab](https://www.serverlab.ca/tutorials/unix/how-to-set-static-ip-and-dhcp-in-freebsd/)
 22)  https://proprivacy.com/guides/tun-tap  👍 🍏 📆 
 23)  [Pkill Command in Linux | Linuxize](https://linuxize.com/post/pkill-command-in-linux/) 
-24)  
+    - [Команда Kill, Pkill, Killall. Как Убить Процесс в Linux](https://www.hostinger.com.ua/rukovodstva/komanda-kill-linux-kak-ubit-process) 
+    - 
+25)  
 
 
 # hardware 
