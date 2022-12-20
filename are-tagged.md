@@ -18,7 +18,8 @@
 20)  https://www.freebsd.org/cgi/man.cgi?csh(1) 👰‍♀️ ㊗️ 
 21)  [How to configure network settings in FreeBSD - Serverlab](https://www.serverlab.ca/tutorials/unix/how-to-set-static-ip-and-dhcp-in-freebsd/)
 22)  https://proprivacy.com/guides/tun-tap  👍 🍏 📆 
-23)  
+23)  [Pkill Command in Linux | Linuxize](https://linuxize.com/post/pkill-command-in-linux/) 
+24)  
 
 
 # hardware 
