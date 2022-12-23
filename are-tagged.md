@@ -21,7 +21,7 @@
 23)  [Pkill Command in Linux | Linuxize](https://linuxize.com/post/pkill-command-in-linux/) 
         - [Команда Kill, Pkill, Killall. Как Убить Процесс в Linux](https://www.hostinger.com.ua/rukovodstva/komanda-kill-linux-kak-ubit-process) 
         - [process - pkill doesn't kill - Ask Ubuntu](https://askubuntu.com/questions/1344444/pkill-doesnt-kill)  
-25)  https://www.stackscale.com/blog/guide-setting-up-ssh-keys-linux/
+25)  https://www.stackscale.com/blog/guide-setting-up-ssh-keys-linux/ 🉑 💂 💚
         - https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/
         - 
 
