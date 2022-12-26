@@ -24,6 +24,8 @@
 25)  https://www.stackscale.com/blog/guide-setting-up-ssh-keys-linux/ 🉑 💂 💚
         - https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/
         - 
+26) https://www.baeldung.com/linux/disable-hyperthreading
+27) 
 
 
 # hardware 
