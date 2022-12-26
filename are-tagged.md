@@ -30,7 +30,9 @@
 1) SSD (GoldFire™️ )  
 2) memory module (16:GB ) ::SO-DIMM 
 3) DC (12V ) invertor 
-4) 
+4) ecoFlow 
+5) batttery: liPol / LiFeP4 / 
+6) 
 
 #services_dev 
 1) [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/) 
