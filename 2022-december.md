@@ -3,4 +3,5 @@
 - 
 
 ## hardware
+- https://www.baeldung.com/linux/disable-hyperthreading 
 - 
