@@ -29,7 +29,8 @@
 ```
         speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 ``` 
-26) 
+26) https://www.linuxfordevices.com/tutorials/linux/install-debian-on-windows-wsl
+27) 
 
 # hardware 
 1) SSD (GoldFire™️ )  
