@@ -31,7 +31,7 @@
 2) memory module (16:GB ) ::SO-DIMM 
 3) DC (12V ) invertor 
 4) ecoFlow 
-5) batttery: liPol / LiFeP4 / 
+5) batttery: liPol / LiFePo4 / 
 6) 
 
 #services_dev 
