@@ -4,5 +4,5 @@
 
 ## hardware
 - https://www.baeldung.com/linux/disable-hyperthreading 
-- cyberciti.biz/faq/howto-find-out-freebsd-cpuinfo/
+- https://cyberciti.biz/faq/howto-find-out-freebsd-cpuinfo/
 - 
