@@ -7,3 +7,5 @@
 - https://www.baeldung.com/linux/disable-hyperthreading 
 - https://cyberciti.biz/faq/howto-find-out-freebsd-cpuinfo/
 - 
+
+## ai
