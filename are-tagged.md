@@ -31,6 +31,7 @@
 ``` 
 26) https://www.linuxfordevices.com/tutorials/linux/install-debian-on-windows-wsl
 27) [Tables (Org Mode Compact Guide)](https://orgmode.org/guide/Tables.html#Tables) 
+28) 
 
 
 # hardware 
