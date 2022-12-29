@@ -24,10 +24,12 @@
 24)  https://www.stackscale.com/blog/guide-setting-up-ssh-keys-linux/ 🉑 💂 💚
         - https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/
 25) https://unix.stackexchange.com/questions/1974/how-do-i-make-my-pc-speaker-beep 
-``` ( speaker-test -t sine -f 1000 )& pid=$! ; sleep 0.2s ; kill -9 $pid ``` 
-
 ```
-        speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
+( speaker-test -t sine -f 1000 )& pid=$! ; sleep 0.2s ; kill -9 $pid
+``` 
+or this 
+```
+speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 ``` 
 26) https://www.linuxfordevices.com/tutorials/linux/install-debian-on-windows-wsl
 27) [Tables (Org Mode Compact Guide)](https://orgmode.org/guide/Tables.html#Tables) 
