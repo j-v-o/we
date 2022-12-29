@@ -33,7 +33,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 ``` 
 26) https://www.linuxfordevices.com/tutorials/linux/install-debian-on-windows-wsl
 27) [Tables (Org Mode Compact Guide)](https://orgmode.org/guide/Tables.html#Tables) 
-28) 
+28) [Ubuntu – Details of package bmon in jammy](https://packages.ubuntu.com/jammy/net/bmon) 
+29) 
 
 
 # hardware 
