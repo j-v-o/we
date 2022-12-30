@@ -37,6 +37,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
     - [Speedometer – excess.org – Ian’s projects](https://excess.org/speedometer/) 
     - [www.roland-riegel.de - nload: monitor network traffic and bandwidth usage](http://www.roland-riegel.de/nload/) 
 30) [TUN/TAP - Wikipedia](https://en.wikipedia.org/wiki/TUN/TAP)  ⚾  🥣  🚡 
+31) 
 
 
 # hardware 
