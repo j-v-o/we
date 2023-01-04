@@ -40,7 +40,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 3) DC (12V ) invertor 
 4) ecoFlow 
 5) batttery: liPol / LiFePo4 / 
-6) 
+6) macBook year 2012+ 
+7) 
 
 #services_dev 
 1) [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/) 
