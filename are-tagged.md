@@ -30,9 +30,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 ``` 
 26) https://www.linuxfordevices.com/tutorials/linux/install-debian-on-windows-wsl
 27) [Tables (Org Mode Compact Guide)](https://orgmode.org/guide/Tables.html#Tables) 
-28) [Ubuntu – Details of package bmon in jammy](https://packages.ubuntu.com/jammy/net/bmon) 
-    - [Speedometer – excess.org – Ian’s projects](https://excess.org/speedometer/) 
-    - [www.roland-riegel.de - nload: monitor network traffic and bandwidth usage](http://www.roland-riegel.de/nload/) 
+28) [Ubuntu – Details of package bmon in jammy](https://packages.ubuntu.com/jammy/net/bmon) - [Speedometer – excess.org – Ian’s projects](https://excess.org/speedometer/) - [www.roland-riegel.de - nload: monitor network traffic and bandwidth usage](http://www.roland-riegel.de/nload/) 
 30) [TUN/TAP - Wikipedia](https://en.wikipedia.org/wiki/TUN/TAP)  ⚾  🥣  🚡 
 31) [The FreeBSD Diary -- screen - how to detach a session from your window](https://www.freebsddiary.org/screen.php)  ( http://asmodeus.com.ua/library/soft/screen/screen.html )
 32) 
