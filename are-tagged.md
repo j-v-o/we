@@ -18,11 +18,8 @@
 20)  https://www.freebsd.org/cgi/man.cgi?csh(1) 👰‍♀️ ㊗️ 
 21)  [How to configure network settings in FreeBSD - Serverlab](https://www.serverlab.ca/tutorials/unix/how-to-set-static-ip-and-dhcp-in-freebsd/)
 22)  https://proprivacy.com/guides/tun-tap  👍 🍏 📆 
-23)  [Pkill Command in Linux | Linuxize](https://linuxize.com/post/pkill-command-in-linux/) 
-        - [Команда Kill, Pkill, Killall. Как Убить Процесс в Linux](https://www.hostinger.com.ua/rukovodstva/komanda-kill-linux-kak-ubit-process) 
-        - [process - pkill doesn't kill - Ask Ubuntu](https://askubuntu.com/questions/1344444/pkill-doesnt-kill)  
-24)  https://www.stackscale.com/blog/guide-setting-up-ssh-keys-linux/ 🉑 💂 💚
-        - https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/
+23)  [Pkill Command in Linux | Linuxize](https://linuxize.com/post/pkill-command-in-linux/) - [Команда Kill, Pkill, Killall. Как Убить Процесс в Linux](https://www.hostinger.com.ua/rukovodstva/komanda-kill-linux-kak-ubit-process) - [process - pkill doesn't kill - Ask Ubuntu](https://askubuntu.com/questions/1344444/pkill-doesnt-kill)  
+24)  https://www.stackscale.com/blog/guide-setting-up-ssh-keys-linux/  🉑 💂 💚 - https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/
 25) https://unix.stackexchange.com/questions/1974/how-do-i-make-my-pc-speaker-beep 
 ```
 ( speaker-test -t sine -f 1000 )& pid=$! ; sleep 0.2s ; kill -9 $pid
