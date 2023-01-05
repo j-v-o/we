@@ -35,7 +35,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 
 # software_develpment
 1) 30) [TUN/TAP - Wikipedia](https://en.wikipedia.org/wiki/TUN/TAP)  ⚾  🥣  🚡 
-2) [Git - Book](https://git-scm.com/book/uk/v2) ! 
+2) [Git - Book](https://git-scm.com/book/uk/v2) { https://docs.github.com/en/get-started/quickstart/github-flow }
 3) 
 
 
