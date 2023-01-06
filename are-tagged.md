@@ -45,7 +45,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 3) DC (12V ) invertor 
 4) ecoFlow 
 5) batttery: liPol / LiFePo4 / 
-6) macBook year 2012+ 
+6) macBook year 2012+ { [Білоруський ноутбук H-book має намір конкурувати з MacBook у Росії](https://focus.ua/uk/digital/543959-v-belarusi-pohvastalis-konkurentom-apple-macbook-chto-o-nem-izvestno-foto) , }
 7) 
 
 #services_dev 
