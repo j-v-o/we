@@ -38,7 +38,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 
 # software_develpment
 1) [TUN/TAP - Wikipedia](https://en.wikipedia.org/wiki/TUN/TAP)  ⚾  🥣  🚡 
-2) [Git - Book](https://git-scm.com/book/uk/v2)  🏁  { https://docs.github.com/en/get-started/quickstart/github-flow }
+2) [Git - Book](https://git-scm.com/book/uk/v2)  🏁  { https://docs.github.com/en/get-started/quickstart/github-flow [Permission denied (publickey) | Bitbucket Cloud Cloud KB | Atlassian Documentation](https://confluence.atlassian.com/bbkb/permission-denied-publickey-302811860.html) }
 3) 
 
 
