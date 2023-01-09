@@ -33,7 +33,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 28) [Ubuntu – Details of package bmon in jammy](https://packages.ubuntu.com/jammy/net/bmon) - [Speedometer – excess.org – Ian’s projects](https://excess.org/speedometer/) - [www.roland-riegel.de - nload: monitor network traffic and bandwidth usage](http://www.roland-riegel.de/nload/)  🧲 ⚓ 👘 
 31) [The FreeBSD Diary -- screen - how to detach a session from your window](https://www.freebsddiary.org/screen.php)  ( http://asmodeus.com.ua/library/soft/screen/screen.html )
 32) [FreeBSD Display Environment Settings - nixCraft](https://www.cyberciti.biz/faq/freebsd-setenv-command/) ✉️ 🦭 🥯
-33) https://linuxhint.com/check-open-ports-freebsd/  https://www.cyberciti.biz/tips/freebsd-lists-open-internet-unix-domain-sockets.html  
+33) https://linuxhint.com/check-open-ports-freebsd/ ( https://www.cyberciti.biz/tips/freebsd-lists-open-internet-unix-domain-sockets.html ) 
 34) 
 
 
