@@ -43,7 +43,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 3) [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/) 
 4) [SSL Converter - Convert SSL Certificates to different formats](https://www.sslshopper.com/ssl-converter.html) 
 5) [[BCLOUD-10967] Restrict Pushing Git Tags to Certain Users in a Bitbucket Repo (BB-12083) - Create and track feature requests for Atlassian products.](https://jira.atlassian.com/browse/BCLOUD-10967?filter=98686)
-6) 
+6) https://ubunlog.com/en/lantern-an-excellent-cross-platform-free-vpn-service/ ( https://lantern.io/ )
+7)  
 
 
 # hardware 
@@ -54,7 +55,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 6) macBook year 2012+ { [Ноутбук 8 Гб Apple на HOTLINE - вигідні ціни | купити в Києві, Харкові, Дніпре, Одесі](https://hotline.ua/ua/computer/noutbuki-buki/28267-294407/) , [Білоруський ноутбук H-book.....](https://focus.ua/uk/digital/543959-v-belarusi-pohvastalis-konkurentom-apple-macbook-chto-o-izvestno-foto) }
 7) 
 
-
+_____________
 ## javascript 
 1) [Using the Fetch API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) 
 2) [HTTP REQUEST Methods-GET, POST, PUT, PATCH, DELETE. | The Startup](https://medium.com/swlh/restful-api-design-get-post-put-patch-delete-a-walkthrough-with-javascripts-fetch-api-e37a8416e2a0) 
