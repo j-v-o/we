@@ -46,7 +46,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 5) [[BCLOUD-10967] Restrict Pushing Git Tags to Certain Users in a Bitbucket Repo (BB-12083) - Create and track feature requests for Atlassian products.](https://jira.atlassian.com/browse/BCLOUD-10967?filter=98686)
 6) https://ubunlog.com/en/lantern-an-excellent-cross-platform-free-vpn-service/ ( https://lantern.io/ )
 7) https://developer.signalwire.com/freeswitch/FreeSWITCH-Explained/Configuration/High-Availability/ 
-8) 
+8) https://medium.com/verses-education/an-easy-gmail-hack-for-signing-up-multiple-user-accounts-that-require-an-email-address-4aba56e29248
+9) 
 
 
 # hardware 
