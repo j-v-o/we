@@ -58,7 +58,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 6) macBook year 2012+ { [Ноутбук 8 Гб Apple на HOTLINE - вигідні ціни | купити в Києві, Харкові, Дніпре, Одесі](https://hotline.ua/ua/computer/noutbuki-buki/28267-294407/) , [Білоруський ноутбук H-book.....](https://focus.ua/uk/digital/543959-v-belarusi-pohvastalis-konkurentom-apple-macbook-chto-o-izvestno-foto) }
 7) 
 
-_____________
+_____________ to cleanup it 
 ## javascript 
 1) [Using the Fetch API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) 
 2) [HTTP REQUEST Methods-GET, POST, PUT, PATCH, DELETE. | The Startup](https://medium.com/swlh/restful-api-design-get-post-put-patch-delete-a-walkthrough-with-javascripts-fetch-api-e37a8416e2a0) 
