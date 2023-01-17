@@ -1,4 +1,4 @@
-## .. let`s goto Step N+1 🌟 [ 2022 November December ]
+## .. let`s goto Step N+1 🌟 [ 2022 November December 2023 January ]
 - 🏛️ https://www.slant.co/topics/6937/~voip-clients-for-linux
 - https://help.ubuntu.com/community/SoftPhone 
 - [Using SIP Devices behind NAT – The Smartvox Knowledgebase](https://kb.smartvox.co.uk/voip-sip/sip-devices-nat/)  [ 📺 6:30 ](https://www.youtube.com/watch?v=4dLJmZOcWFc)  
@@ -36,6 +36,10 @@
 
 ### sipDroid []
 - [Sipdroid | Free SIP/VoIP client for Android](http://sipdroid.org/)
+
+#### tmp 
+- https://stats.uptimerobot.com/RJ8OlUG60y
+- 
 
 ___
 ## later 
