@@ -55,7 +55,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 2) memory module (16:GB ) ::SO-DIMM 
 3) DC (12V ) invertor / ecoFlow 
 5) batttery: liPol / LiFePo4 / etc 
-6) macBook year 2012+ { [Ноутбук 8 Гб Apple на HOTLINE - вигідні ціни | купити в Києві, Харкові, Дніпре, Одесі](https://hotline.ua/ua/computer/noutbuki-buki/28267-294407/) , [Білоруський ноутбук H-book.....](https://focus.ua/uk/digital/543959-v-belarusi-pohvastalis-konkurentom-apple-macbook-chto-o-izvestno-foto) }
+6) macBook year 2012+ { [Ноутбук 8 Гб Apple на HOTLINE - вигідні ціни | купити в Києві, Харкові, Дніпре, Одесі](https://hotline.ua/ua/computer/noutbuki-buki/28267-294407/) ..... }
 7) 
 
 _____________ to cleanup it 
