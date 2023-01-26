@@ -36,7 +36,9 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 33) https://linuxhint.com/check-open-ports-freebsd/ ( https://www.cyberciti.biz/tips/freebsd-lists-open-internet-unix-domain-sockets.html ) 
 34) [Linux Terminal and Console Explained For Beginners - LinuxBabe](https://www.linuxbabe.com/command-line/linux-terminal)  ⚖️  🐻  🇧🇪  
 35) https://linuxhint.com/bash_pipe_tutorial/  🍼 👣 🐷 
-36) 
+36) [Asciidoctor | A fast, open source text pro
+37) cessor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats.](https://asciidoctor.org/) 
+37) 
 
 
 # software_develpment solutions 
