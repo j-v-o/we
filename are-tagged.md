@@ -39,15 +39,16 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 
 
 # software_develpment solutions 
-1) [TUN/TAP - Wikipedia](https://en.wikipedia.org/wiki/TUN/TAP)  ⚾  🥣  🚡 
+1) [TUN/TAP - Wikipedia](https://en.wikipedia.org/wiki/TUN/TAP)  ⚾  🥣 
 2) [Git - Book](https://git-scm.com/book/uk/v2)  🏁  { https://docs.github.com/en/get-started/quickstart/github-flow [Permission denied (publickey) | Bitbucket Cloud Cloud KB | Atlassian Documentation](https://confluence.atlassian.com/bbkb/permission-denied-publickey-302811860.html) }
-3) [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/) 
+3) [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/)  🤡
 4) [SSL Converter - Convert SSL Certificates to different formats](https://www.sslshopper.com/ssl-converter.html) 
-5) [[BCLOUD-10967] Restrict Pushing Git Tags to Certain Users in a Bitbucket Repo (BB-12083) - Create and track feature requests for Atlassian products.](https://jira.atlassian.com/browse/BCLOUD-10967?filter=98686)
+5) [[BCLOUD-10967] Restrict Pushing Git Tags to Certain Users in a Bitbucket Repo (BB-12083) - Create and track feature requests for Atlassian products.](https://jira.atlassian.com/browse/BCLOUD-10967?filter=98686)  🪥  🔰  🧩 
 6) https://ubunlog.com/en/lantern-an-excellent-cross-platform-free-vpn-service/ ( https://lantern.io/ )
-7) https://developer.signalwire.com/freeswitch/FreeSWITCH-Explained/Configuration/High-Availability/ 
+7) https://developer.signalwire.com/freeswitch/FreeSWITCH-Explained/Configuration/High-Availability/  🇨🇭  😌  
 8) https://medium.com/verses-education/an-easy-gmail-hack-for-signing-up-multiple-user-accounts-that-require-an-email-address-4aba56e29248
-9) 
+9) https://meta.stackexchange.com/questions/214173/why-do-i-need-50-reputation-to-comment-what-can-i-do-instead
+10) 
 
 
 # hardware 
@@ -55,7 +56,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 2) memory module (16:GB ) ::SO-DIMM 
 3) DC (12V ) invertor / ecoFlow 
 5) batttery: liPol / LiFePo4 / etc 
-6) macBook year 2012+ { [Ноутбук 8 Гб Apple на HOTLINE - вигідні ціни | купити в Києві, Харкові, Дніпре, Одесі](https://hotline.ua/ua/computer/noutbuki-buki/28267-294407/) , [Білоруський ноутбук H-book.....](https://focus.ua/uk/digital/543959-v-belarusi-pohvastalis-konkurentom-apple-macbook-chto-o-izvestno-foto) }
+6) macBook year 2012+ { [Ноутбук 8 Гб Apple на HOTLINE - вигідні ціни | купити в Києві, Харкові, Дніпре, Одесі](https://hotline.ua/ua/computer/noutbuki-buki/28267-294407/) , [Білоруський ноутбук H-book.....](https://focus.ua/uk/digital/543959-v-belarusi-pohvastalis-konkurentom-apple-macbook-chto-o-izvestno-foto) ,macAair? }
 7) 
 
 _____________
