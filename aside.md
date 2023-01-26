@@ -6,4 +6,5 @@
 - https://www.mom.gov.sg/newsroom/press-releases/2022/0408-public-holidays-for-2023
 - (( tmp https://www.youtube.com/watch?v=IO3H9fSOYKs as 'অলস জমিদার | বাংলা ফানি ভিডিও #bangla_funny_video#jalangi_team_01' ))
 - https://kolesa.kz/content/kz/articles-kz/qazaqstan-avtomobilizatsiya-qarsanynda-almatydagy-algashqy-avtokolik/
+- https://it-simulator.com/#/stories/3
 - 
