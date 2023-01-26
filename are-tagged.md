@@ -35,7 +35,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 32) [FreeBSD Display Environment Settings - nixCraft](https://www.cyberciti.biz/faq/freebsd-setenv-command/) ✉️ 🦭 🥯
 33) https://linuxhint.com/check-open-ports-freebsd/ ( https://www.cyberciti.biz/tips/freebsd-lists-open-internet-unix-domain-sockets.html ) 
 34) [Linux Terminal and Console Explained For Beginners - LinuxBabe](https://www.linuxbabe.com/command-line/linux-terminal)  ⚖️  🐻  🇧🇪  
-35) 
+35) https://linuxhint.com/bash_pipe_tutorial/  🍼 👣 🐷 
+36) 
 
 
 # software_develpment solutions 
