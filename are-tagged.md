@@ -50,7 +50,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 7) https://developer.signalwire.com/freeswitch/FreeSWITCH-Explained/Configuration/High-Availability/  🇨🇭  😌  
 8) https://medium.com/verses-education/an-easy-gmail-hack-for-signing-up-multiple-user-accounts-that-require-an-email-address-4aba56e29248
 9) https://meta.stackexchange.com/questions/214173/why-do-i-need-50-reputation-to-comment-what-can-i-do-instead
-10) 
+10) https://en.wikipedia.org/wiki/Resource-oriented_architecture
+11) 
 
 
 # hardware 
