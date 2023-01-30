@@ -37,8 +37,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 34) [Linux Terminal and Console Explained For Beginners - LinuxBabe](https://www.linuxbabe.com/command-line/linux-terminal)  ⚖️  🐻  🇧🇪  
 35) https://linuxhint.com/bash_pipe_tutorial/  🍼 👣 🐷 
 36) [Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats.](https://asciidoctor.org/) 
-37) [REST APIs must be hypertext-driven » Untangled](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven#)  
-38) 
+37) 
 
 
 # software_develpment solutions 
@@ -50,9 +49,10 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 6) https://ubunlog.com/en/lantern-an-excellent-cross-platform-free-vpn-service/ ( https://lantern.io/ )
 7) https://developer.signalwire.com/freeswitch/FreeSWITCH-Explained/Configuration/High-Availability/  🇨🇭  😌  
 8) https://medium.com/verses-education/an-easy-gmail-hack-for-signing-up-multiple-user-accounts-that-require-an-email-address-4aba56e29248
-9) https://meta.stackexchange.com/questions/214173/why-do-i-need-50-reputation-to-comment-what-can-i-do-instead
+9) https://meta.stackexchange.com/questions/214173/why-do-i-need-50-reputation-to-comment-what-can-i-do-instead  💵  👗  🚛 
 10) https://en.wikipedia.org/wiki/Resource-oriented_architecture
-11) 
+11) [REST APIs must be hypertext-driven » Untangled](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven#)  
+12) 
 
 
 # hardware 
