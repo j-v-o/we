@@ -37,7 +37,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 34) [Linux Terminal and Console Explained For Beginners - LinuxBabe](https://www.linuxbabe.com/command-line/linux-terminal)  ⚖️  🐻  🇧🇪  
 35) https://linuxhint.com/bash_pipe_tutorial/  🍼 👣 🐷 
 36) [Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats.](https://asciidoctor.org/) 
-37) 
+37) [REST APIs must be hypertext-driven » Untangled](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven#)  
+38) 
 
 
 # software_develpment solutions 
