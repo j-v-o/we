@@ -37,7 +37,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 34) [Linux Terminal and Console Explained For Beginners - LinuxBabe](https://www.linuxbabe.com/command-line/linux-terminal)  ⚖️  🐻  🇧🇪  
 35) https://linuxhint.com/bash_pipe_tutorial/  🍼 👣 🐷 
 36) [Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats.](https://asciidoctor.org/) 
-37) 
+37) https://www.digitalocean.com/community/tutorials/how-to-add-and-remove-users-on-freebsd  ⚗️  🇦🇷  🧑‍🦰 
+38) 
 
 
 # software_develpment solutions 
@@ -52,7 +53,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 9) https://meta.stackexchange.com/questions/214173/why-do-i-need-50-reputation-to-comment-what-can-i-do-instead  💵  👗  🚛 
 10) https://en.wikipedia.org/wiki/Resource-oriented_architecture
 11) [REST APIs must be hypertext-driven » Untangled](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven#)  
-12) 
+12) https://www.digitalocean.com/community/tutorials/how-to-add-and-remove-users-on-freebsd
+13) 
 
 
 # hardware 
