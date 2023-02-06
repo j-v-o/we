@@ -35,7 +35,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 32) [FreeBSD Display Environment Settings - nixCraft](https://www.cyberciti.biz/faq/freebsd-setenv-command/) ✉️ 🦭 🥯
 33) https://linuxhint.com/check-open-ports-freebsd/ ( https://www.cyberciti.biz/tips/freebsd-lists-open-internet-unix-domain-sockets.html ) 
 34) [Linux Terminal and Console Explained For Beginners - LinuxBabe](https://www.linuxbabe.com/command-line/linux-terminal)  ⚖️  🐻  🇧🇪  
-35) https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BA%D0%B0_%D0%BF%D1%96%D0%B4%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D1%96 /ip subnets/ 
+35) https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BA%D0%B0_%D0%BF%D1%96%D0%B4%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D1%96 / ip subnets mask / 
 36) https://infoit.com.ua/linux/9-primerov-komand-diff-v-linux/
 37) 
 
