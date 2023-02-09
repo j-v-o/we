@@ -9,6 +9,7 @@
   - [Dialed Number Identification Service - Wikipedia](https://en.wikipedia.org/wiki/Dialed_Number_Identification_Service) 
 - 📞 [Welcome to SIPp](https://sipp.sourceforge.net/) 
 - 🧮 [VoIP School](https://www.voip.school/courses/enrolled/1362752) 
+- http://blog.greenl.ee/2011/08/20/switching-lync-call-participants-with-ucma/ { b2bua } 
 - 
 
 

@@ -35,7 +35,9 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 32) [FreeBSD Display Environment Settings - nixCraft](https://www.cyberciti.biz/faq/freebsd-setenv-command/) ✉️ 🦭 🥯
 33) https://linuxhint.com/check-open-ports-freebsd/ ( https://www.cyberciti.biz/tips/freebsd-lists-open-internet-unix-domain-sockets.html ) 
 34) [Linux Terminal and Console Explained For Beginners - LinuxBabe](https://www.linuxbabe.com/command-line/linux-terminal)  ⚖️  🐻  🇧🇪  
-35) 
+35) https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BA%D0%B0_%D0%BF%D1%96%D0%B4%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D1%96 / ip subnets mask / 
+36) https://infoit.com.ua/linux/9-primerov-komand-diff-v-linux/
+37) 
 
 
 # software_develpment solutions 
@@ -50,23 +52,15 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 9) 
 
 
+# database 
+1) [PostgreSQL: Documentation: 15: Chapter 55. Frontend/Backend Protocol](https://www.postgresql.org/docs/current/protocol.html) 
+2) 
+
+
 # hardware 
 1) SSD (GoldFire™️ )  
 2) memory module (16:GB ) ::SO-DIMM 
 3) DC (12V ) invertor / ecoFlow 
 5) batttery: liPol / LiFePo4 / etc 
-6) macBook year 2012+ { [Ноутбук 8 Гб Apple на HOTLINE - вигідні ціни | купити в Києві, Харкові, Дніпре, Одесі](https://hotline.ua/ua/computer/noutbuki-buki/28267-294407/) , [Білоруський ноутбук H-book.....](https://focus.ua/uk/digital/543959-v-belarusi-pohvastalis-konkurentom-apple-macbook-chto-o-izvestno-foto) }
+6) macBook year 2012+ { [Ноутбук 8 Гб Apple на HOTLINE - вигідні ціни | купити в Києві, Харкові, Дніпре, Одесі](https://hotline.ua/ua/computer/noutbuki-buki/28267-294407/) ..... }
 7) 
-
-_____________
-## javascript 
-1) [Using the Fetch API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) 
-2) [HTTP REQUEST Methods-GET, POST, PUT, PATCH, DELETE. | The Startup](https://medium.com/swlh/restful-api-design-get-post-put-patch-delete-a-walkthrough-with-javascripts-fetch-api-e37a8416e2a0) 
-3) 
-
-## php 
-1) [PHP: $_POST - Manual](https://www.php.net/manual/en/reserved.variables.post.php) 
-2) [http - How do I send a POST request with PHP? - Stack Overflow](https://stackoverflow.com/questions/5647461/how-do-i-send-a-post-request-with-php) 
-3) [PHP: $_GET - Manual](https://www.php.net/manual/en/reserved.variables.get.php) 
-4) [5 Ways to Make HTTP Requests in PHP](https://www.twilio.com/blog/5-ways-to-make-http-requests-in-php) 
-5) 
