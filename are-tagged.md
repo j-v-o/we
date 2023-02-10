@@ -1,6 +1,7 @@
 # linux 
 - https://askubuntu.com/
 - https://unix.stackexchange.com/
+- https://serverfault.com/
 
 1)  [swap - How do I increase swapfile in Ubuntu 18.04? - Ask Ubuntu](https://askubuntu.com/questions/1075505/how-do-i-increase-swapfile-in-ubuntu-18-04): { [Change Swap Size in Ubuntu](https://linuxhint.com/change_swap_size_ubuntu/)  [Change swap size in Ubuntu 18.04 or newer - Bogdan Cornianu](https://bogdancornianu.com/change-swap-size-in-ubuntu/)  [How To Increase Page File Size In Linux? – Systran Box](https://www.systranbox.com/how-to-increase-page-file-size-in-linux/)  [SwapFaq - Community Help Wiki](https://help.ubuntu.com/community/SwapFaq)  [ram - Is it safe to flush the swap space? - Ask Ubuntu](https://askubuntu.com/questions/1185561/is-it-safe-to-flush-the-swap-space)  [How to change the Swappiness of your Linux system](https://www.howtoforge.com/tutorial/linux-swappiness/) } 
 ```
@@ -16,19 +17,17 @@ grep Swap* /proc/meminfo
 13)  
 14)  he Ubuntu repositories not only install snap as a dependency but also run snap commands as root without your knowledge or consent and connect your com
 puter to the remote proprietary store operated by Canonical. 
-14)  🥦 🌦️ - [How to Install AWS CLI on Ubuntu 20.04 Focal Fossa Linux - Linux Tutorials - Learn Linux Configuration](https://linuxconfig.org/how-to-install-aws-cli-on-ubuntu-20-04-focal-fossa-linux) - [Installing or updating the latest version of the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
-15)  👱🔷 [Fix Brightness Problem In Ubuntu 22.04 LTS | Itsubuntu.com](https://itsubuntu.com/fix-brightness-problem-in-ubuntu-22-04-lts/)['xrandr' command (solved) - Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=275268) 
+14) 🌦️ - [How to Install AWS CLI on Ubuntu 20.04 Focal Fossa Linux - Linux Tutorials - Learn Linux Configuration](https://linuxconfig.org/how-to-install-aws-cli-on-ubuntu-20-04-focal-fossa-linux) - [Installing or updating the latest version of the AWS CLI - AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+15) 🔷 [Fix Brightness Problem In Ubuntu 22.04 LTS | Itsubuntu.com](https://itsubuntu.com/fix-brightness-problem-in-ubuntu-22-04-lts/)['xrandr' command (solved) - Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=275268) 
 16)  https://uk.wikipedia.org/wiki/Yocto_Project ```The Yocto Project is a Linux Foundation collaborative open source project whose goal is to produce tools and processes that enable the creation of Linux distributions for embedded and IoT software that are independent of the underlying architecture of the embedded hardware. The project was announced by the Linux Foundation in 2010 and launched in March, 2011, in collaboration with 22 organizations, including OpenEmbedded.....```
 17)  https://meta.stackexchange.com/questions/384355/could-chatgpt-be-a-viable-way-to-answer-peoples-questions  #trend  #ai 
 18)  🔑 [Projects/GnomeShell/CheatSheet - GNOME Wiki!](https://wiki.gnome.org/Projects/GnomeShell/CheatSheet#Developer_tools) 
-19)  https://www.cyberciti.biz/faq/howto-set-date-and-time-timezone-in-freebsd/ 🌐 ⏲️ 🪛 
-20)  __https://docs.freebsd.org/en/books/handbook/bsdinstall/__ 
-21)  [ man csh ](https://www.freebsd.org/cgi/man.cgi?csh(1)) 👰‍♀️ ㊗️ 
+19)  https://www.cyberciti.biz/faq/howto-set-date-and-time-timezone-in-freebsd/ 🌐 
+20)  __https://docs.freebsd.org/en/books/handbook/bsdinstall/__ [ man csh ](https://www.freebsd.org/cgi/man.cgi?csh(1)) 👰‍♀️ ㊗️ 
 22)  [How to configure network settings in FreeBSD - Serverlab](https://www.serverlab.ca/tutorials/unix/how-to-set-static-ip-and-dhcp-in-freebsd/)
-23)  🔢 https://proprivacy.com/guides/tun-tap  👍 🍏 📆 
-24)  [Pkill Command in Linux | Linuxize](https://linuxize.com/post/pkill-command-in-linux/) - [Команда Kill, Pkill, Killall. Как Убить Процесс в Linux](https://www.hostinger.com.ua/rukovodstva/komanda-kill-linux-kak-ubit-process) - [process - pkill doesn't kill - Ask Ubuntu](https://askubuntu.com/questions/1344444/pkill-doesnt-kill)  
-25)  https://www.stackscale.com/blog/guide-setting-up-ssh-keys-linux/  🉑 💂 💚 - https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/
-26) https://unix.stackexchange.com/questions/1974/how-do-i-make-my-pc-speaker-beep 
+23)  🔢 https://proprivacy.com/guides/tun-tap  🍏 📆 
+24)  [Pkill Command in Linux | Linuxize](https://linuxize.com/post/pkill-command-in-linux/) - [Команда Kill, Pkill, Killall. Как Убить Процесс в Linux](https://www.hostinger.com.ua/rukovodstva/komanda-kill-linux-kak-ubit-process) - [process - pkill doesn't kill - Ask Ubuntu](https://askubuntu.com/questions/1344444/pkill-doesnt-kill)
+25) https://unix.stackexchange.com/questions/1974/how-do-i-make-my-pc-speaker-beep 
 ```
 (speaker-test -t sine -f 1000 )& pid=$! ; sleep 0.2s ; kill -9 $pid
 ``` 
@@ -63,6 +62,12 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 # database 
 1) [PostgreSQL: Documentation: 15: Chapter 55. Frontend/Backend Protocol](https://www.postgresql.org/docs/current/protocol.html) 
 2) 
+
+
+# security
+1) [netfilter/iptables project homepage - The netfilter.org project](https://www.netfilter.org/) 
+2) https://www.stackscale.com/blog/guide-setting-up-ssh-keys-linux/  🉑 💂 -- https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/
+3) 
 
 
 # hardware 
