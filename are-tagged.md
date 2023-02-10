@@ -65,7 +65,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 
 
 # security
-1) [netfilter/iptables project homepage - The netfilter.org project](https://www.netfilter.org/) -- https://serverfault.com/questions/1094354/how-do-i-display-the-entire-firewalld-state
+1) [netfilter/iptables project homepage - netfilter.org](https://www.netfilter.org/) -- https://serverfault.com/questions/1094354/how-do-i-display-the-entire-firewalld-state
 2) https://www.stackscale.com/blog/guide-setting-up-ssh-keys-linux/  🉑 💂 -- https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/
 3) 
 
