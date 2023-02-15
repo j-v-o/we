@@ -2,7 +2,7 @@
 - https://askubuntu.com/
 - https://unix.stackexchange.com/
 - https://serverfault.com/
-- //dba.
+- https://dba.StackExchange.com
 
 1)  [swap - How do I increase swapfile in Ubuntu 18.04? - Ask Ubuntu](https://askubuntu.com/questions/1075505/how-do-i-increase-swapfile-in-ubuntu-18-04): { [Change Swap Size in Ubuntu](https://linuxhint.com/change_swap_size_ubuntu/)  [Change swap size in Ubuntu 18.04 or newer - Bogdan Cornianu](https://bogdancornianu.com/change-swap-size-in-ubuntu/)  [How To Increase Page File Size In Linux? – Systran Box](https://www.systranbox.com/how-to-increase-page-file-size-in-linux/)  [SwapFaq - Community Help Wiki](https://help.ubuntu.com/community/SwapFaq)  [ram - Is it safe to flush the swap space? - Ask Ubuntu](https://askubuntu.com/questions/1185561/is-it-safe-to-flush-the-swap-space)  [How to change the Swappiness of your Linux system](https://www.howtoforge.com/tutorial/linux-swappiness/) } 
 ```
@@ -45,7 +45,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 35) https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BA%D0%B0_%D0%BF%D1%96%D0%B4%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D1%96 / ip subnets mask / 
 36) https://infoit.com.ua/linux/9-primerov-komand-diff-v-linux/
 37) [bz2 — Support for bzip2 compression — Python 3.11.2 documentation](https://docs.python.org/3/library/bz2.html) ( https://tecadmin.net/how-to-extract-tar-bz2-file/ )
-38) 
+38) https://kgibran.wordpress.com/2019/03/13/remmina-rdp-ssh-tunnel-with-pre-and-post-scripts/
+39) 
 
 
 # software_develpment solutions 
