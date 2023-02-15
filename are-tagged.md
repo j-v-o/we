@@ -44,7 +44,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 34) [Linux Terminal and Console Explained For Beginners - LinuxBabe](https://www.linuxbabe.com/command-line/linux-terminal)  ⚖️  🐻  🇧🇪  
 35) https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BA%D0%B0_%D0%BF%D1%96%D0%B4%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D1%96 / ip subnets mask / 
 36) https://infoit.com.ua/linux/9-primerov-komand-diff-v-linux/
-37) 
+37) [bz2 — Support for bzip2 compression — Python 3.11.2 documentation](https://docs.python.org/3/library/bz2.html) ( https://tecadmin.net/how-to-extract-tar-bz2-file/ )
+38) 
 
 
 # software_develpment solutions 
@@ -57,8 +58,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 7) https://developer.signalwire.com/freeswitch/FreeSWITCH-Explained/Configuration/High-Availability/  🥑 
 8) https://medium.com/verses-education/an-easy-gmail-hack-for-signing-up-multiple-user-accounts-that-require-an-email-address-4aba56e29248
 9) [Port 5432 (tcp/udp) :: SpeedGuide](https://www.speedguide.net/port.php?port=5432) 
-10) [bz2 — Support for bzip2 compression — Python 3.11.2 documentation](https://docs.python.org/3/library/bz2.html) 
-11) 
+10)  
 
 
 # database 
