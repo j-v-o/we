@@ -46,7 +46,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 36) https://infoit.com.ua/linux/9-primerov-komand-diff-v-linux/
 37) [bz2 — Support for bzip2 compression — Python 3.11.2 documentation](https://docs.python.org/3/library/bz2.html) ( https://tecadmin.net/how-to-extract-tar-bz2-file/ )
 38) https://kgibran.wordpress.com/2019/03/13/remmina-rdp-ssh-tunnel-with-pre-and-post-scripts/
-39) 
+39) https://uk.wikipedia.org/wiki/BalenaEtcher  #bootable-USB  🎍 🚌 🌂
+40) 
 
 
 # software_develpment solutions 
