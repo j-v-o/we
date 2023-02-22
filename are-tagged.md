@@ -44,10 +44,11 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 34) [Linux Terminal and Console Explained For Beginners - LinuxBabe](https://www.linuxbabe.com/command-line/linux-terminal)  ⚖️  🐻  🇧🇪  
 35) https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BA%D0%B0_%D0%BF%D1%96%D0%B4%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D1%96 / ip subnets mask / 
 36) https://infoit.com.ua/linux/9-primerov-komand-diff-v-linux/
-37) [bz2 — Support for bzip2 compression — Python 3.11.2 documentation](https://docs.python.org/3/library/bz2.html) ( https://tecadmin.net/how-to-extract-tar-bz2-file/ )
+37) [bz2 — Support for bzip2 compression — Python 3.11.2 documentation](https://docs.python.org/3/library/bz2.html) ( https://tecadmin.net/how-to-extract-tar-bz2-file/ )  🐗  🤹
 38) https://kgibran.wordpress.com/2019/03/13/remmina-rdp-ssh-tunnel-with-pre-and-post-scripts/
 39) https://uk.wikipedia.org/wiki/BalenaEtcher  #bootable-USB  🎍 🚌 🌂
-40) 
+40) https://help.ubuntu.com/community/RecoveringUbuntuAfterInstallingWindows
+41) 
 
 
 # software_develpment solutions 
