@@ -61,7 +61,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 7) https://developer.signalwire.com/freeswitch/FreeSWITCH-Explained/Configuration/High-Availability/  🥑 
 8) https://medium.com/verses-education/an-easy-gmail-hack-for-signing-up-multiple-user-accounts-that-require-an-email-address-4aba56e29248
 9) [Port 5432 (tcp/udp) :: SpeedGuide](https://www.speedguide.net/port.php?port=5432) 
-10)  
+10) [A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/) ( [make and Makefiles](https://faculty.cs.niu.edu/~mcmahon/CS241/Notes/makefiles.html) ) #script
+11)  
 
 
 # database 
