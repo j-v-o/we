@@ -55,12 +55,12 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 1) [TUN/TAP - Wikipedia](https://en.wikipedia.org/wiki/TUN/TAP)  ⚾  🥣  🚡 
 2) [Git - Book](https://git-scm.com/book/uk/v2)  🏁  { https://docs.github.com/en/get-started/quickstart/github-flow [Permission denied (publickey) | Bitbucket Cloud Cloud KB | Atlassian Documentation](https://confluence.atlassian.com/bbkb/permission-denied-publickey-302811860.html) }
 3) [JSONPlaceholder - Free Fake REST API](https://jsonplaceholder.typicode.com/) 
-4) [SSL Converter - Convert SSL Certificates to different formats](https://www.sslshopper.com/ssl-converter.html) 
+4) [SSL Converter - Convert SSL Certificates to different formats](https://www.sslshopper.com/ssl-converter.html)  🐪  💚 
 5) [[BCLOUD-10967] Restrict Pushing Git Tags to Certain Users in a Bitbucket Repo (BB-12083) - Create and track feature requests for Atlassian products.](https://jira.atlassian.com/browse/BCLOUD-10967?filter=98686)
 6) https://ubunlog.com/en/lantern-an-excellent-cross-platform-free-vpn-service/ ( https://lantern.io/ )
 7) https://developer.signalwire.com/freeswitch/FreeSWITCH-Explained/Configuration/High-Availability/  🥑 
 8) https://medium.com/verses-education/an-easy-gmail-hack-for-signing-up-multiple-user-accounts-that-require-an-email-address-4aba56e29248
-9) [Port 5432 (tcp/udp) :: SpeedGuide](https://www.speedguide.net/port.php?port=5432) 
+9) [Port 5432 (tcp/udp) :: SpeedGuide](https://www.speedguide.net/port.php?port=5432)  🌷  🥁 
 10) [A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/) ( [make and Makefiles](https://faculty.cs.niu.edu/~mcmahon/CS241/Notes/makefiles.html) ) #script
 11)  
 
