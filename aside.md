@@ -5,4 +5,5 @@
 - [The Internet Classics Archive | The Art of War by Sun Tzu](http://classics.mit.edu/Tzu/artwar.html) 
 - https://www.mom.gov.sg/newsroom/press-releases/2022/0408-public-holidays-for-2023
 - (( tmp https://www.youtube.com/watch?v=IO3H9fSOYKs ))
+- [10 years as a lost laowai: where have we been, where are we going?](https://www.lostlaowai.com/blog/site-stuff/10-years-lost-laowai-going/) 
 - 
