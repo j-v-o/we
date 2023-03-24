@@ -38,7 +38,9 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 35) https://linuxhint.com/bash_pipe_tutorial/  🍼 👣 🐷 
 36) [Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook, PDF, and other formats.](https://asciidoctor.org/) 
 37) https://www.digitalocean.com/community/tutorials/how-to-add-and-remove-users-on-freebsd  ⚗️  🇦🇷  🧑‍🦰 
-38) 
+38) https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BA%D0%B0_%D0%BF%D1%96%D0%B4%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D1%96 / ip subnets mask / 
+39) https://infoit.com.ua/linux/9-primerov-komand-diff-v-linux/
+40) 
 
 
 # software_develpment solutions 
@@ -57,12 +59,15 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 13) 
 
 
+# database 
+1) [PostgreSQL: Documentation: 15: Chapter 55. Frontend/Backend Protocol](https://www.postgresql.org/docs/current/protocol.html) 
+2) 
+
+
 # hardware 
 1) SSD (GoldFire™️ )  
 2) memory module (16:GB ) ::SO-DIMM 
 3) DC (12V ) invertor / ecoFlow 
 5) batttery: liPol / LiFePo4 / etc 
-6) macBook year 2012+ { [Ноутбук 8 Гб Apple на HOTLINE - вигідні ціни | купити в Києві, Харкові, Дніпре, Одесі](https://hotline.ua/ua/computer/noutbuki-buki/28267-294407/) , [Білоруський ноутбук H-book.....](https://focus.ua/uk/digital/543959-v-belarusi-pohvastalis-konkurentom-apple-macbook-chto-o-izvestno-foto) ,macAair? }
+6) macBook year 2012+ { [Ноутбук 8 Гб Apple на HOTLINE - вигідні ціни | купити в Києві, Харкові, Дніпре, Одесі](https://hotline.ua/ua/computer/noutbuki-buki/28267-294407/) ..... }
 7) 
-
-_____________
