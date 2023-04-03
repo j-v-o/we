@@ -18,8 +18,9 @@
 - http://blog.greenl.ee/2011/08/20/switching-lync-call-participants-with-ucma/ { b2bua } 
 - 
 
-## JavaScript for backend or frontend, Node.js, npm  
+## JavaScript for backend or frontend; framework Node.js; library NPM 
 - https://runkit.com/  🫐 
+- [What is NPM? The Complete 2023 Beginner's Guide](https://careerfoundry.com/en/blog/web-development/what-is-npm/) 
 - 
 
 
