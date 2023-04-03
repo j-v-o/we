@@ -18,8 +18,8 @@
 - http://blog.greenl.ee/2011/08/20/switching-lync-call-participants-with-ucma/ { b2bua } 
 - 
 
-## JS backend Node.js 
-- https://runkit.com/ 
+## JavaScript for backend or frontend, Node.js, npm  
+- https://runkit.com/  🫐 
 - 
 
 
