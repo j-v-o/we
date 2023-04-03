@@ -21,8 +21,9 @@
 ## JavaScript for backend or frontend; framework Node.js; library NPM 
 - https://runkit.com/  🫐  online tool environment
 - [What is NPM? The Complete 2023 Beginner's Guide](https://careerfoundry.com/en/blog/web-development/what-is-npm/) 
-- https://www.npmjs.com/package/the-framework
+- https://www.npmjs.com/package/the-framework  🦌 🎍 
 - [What Makes Node.js Better Than Other Languages? - Programmers.io](https://programmers.io/nodejs-programming-language/) 
+- [6 Reasons Why JavaScript Async/Await Blows Promises Away (Tutorial) | HackerNoon](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9) 
 - 
 
 
