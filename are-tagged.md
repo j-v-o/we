@@ -48,7 +48,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 38) https://kgibran.wordpress.com/2019/03/13/remmina-rdp-ssh-tunnel-with-pre-and-post-scripts/
 39) https://uk.wikipedia.org/wiki/BalenaEtcher  #bootable-USB  🎍 🚌 🌂
 40) https://help.ubuntu.com/community/RecoveringUbuntuAfterInstallingWindows
-41) [Photon OS 5.0 Beta is now available - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2023/01/photon-5-0-beta-is-now-available.html)  💾 
+41) [Photon OS 5.0 Beta is now available - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2023/01/photon-5-0-beta-is-now-available.html)  💾  #flavors 
 42) 
 
 
