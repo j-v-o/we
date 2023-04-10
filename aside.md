@@ -7,4 +7,5 @@
 - (( tmp https://www.youtube.com/watch?v=IO3H9fSOYKs ))
 - [10 years as a lost laowai: where have we been, where are we going?](https://www.lostlaowai.com/blog/site-stuff/10-years-lost-laowai-going/) 
 - [I Was (Relatively) Wrong About AGI](https://cerebralab.com/I_Was_%28Relatively%29_Wrong_About_AGI?mode=about) 
+- [SysAdmin1138 Explains](https://sysadmin1138.net/mt/blog/) 
 - 
