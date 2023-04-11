@@ -1,8 +1,9 @@
 # linux 
 - https://askubuntu.com/
-- https://unix.stackexchange.com/
+- https://unix.StackExchange.com/
 - https://serverfault.com/
 - https://dba.StackExchange.com
+- 
 
 1)  [swap - How do I increase swapfile in Ubuntu 18.04? - Ask Ubuntu](https://askubuntu.com/questions/1075505/how-do-i-increase-swapfile-in-ubuntu-18-04): { [Change Swap Size in Ubuntu](https://linuxhint.com/change_swap_size_ubuntu/)  [Change swap size in Ubuntu 18.04 or newer - Bogdan Cornianu](https://bogdancornianu.com/change-swap-size-in-ubuntu/)  [How To Increase Page File Size In Linux? – Systran Box](https://www.systranbox.com/how-to-increase-page-file-size-in-linux/)  [SwapFaq - Community Help Wiki](https://help.ubuntu.com/community/SwapFaq)  [ram - Is it safe to flush the swap space? - Ask Ubuntu](https://askubuntu.com/questions/1185561/is-it-safe-to-flush-the-swap-space)  [How to change the Swappiness of your Linux system](https://www.howtoforge.com/tutorial/linux-swappiness/) } 
 ```
@@ -77,7 +78,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 # security
 1) [netfilter/iptables project homepage - netfilter.org](https://www.netfilter.org/) -- https://serverfault.com/questions/1094354/how-do-i-display-the-entire-firewalld-state
 2) https://www.stackscale.com/blog/guide-setting-up-ssh-keys-linux/  🉑 💂 -- https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/
-3) 
+3) https://www.hostmaster.ua/dnssec/
+4) 
 
 
 # hardware 
