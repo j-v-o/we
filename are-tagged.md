@@ -66,7 +66,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 9) [Port 5432 (tcp/udp) :: SpeedGuide](https://www.speedguide.net/port.php?port=5432)  🌷  🥁 
 10) [A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/) ( [make and Makefiles](https://faculty.cs.niu.edu/~mcmahon/CS241/Notes/makefiles.html) ) #script
 11) [jBPM - Wikipedia](https://en.wikipedia.org/wiki/JBPM)  📽️ 🎡 
-12) [PEP 8 – Style Guide for Python Code | peps.python.org](https://peps.python.org/pep-0008/) 
+12) [PEP 8 – Style Guide for Python Code | peps.python.org](https://peps.python.org/pep-0008/) { There are linters (Flake8, Pylint and others) which check your code against PEP-8 }
 13) 
 
 # frontend
