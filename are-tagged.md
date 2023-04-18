@@ -73,9 +73,12 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 2) 
 
 # database 
-1) [PostgreSQL: Documentation: 15: Chapter 55. Frontend/Backend Protocol](https://www.postgresql.org/docs/current/protocol.html) 
+1) [PostgreSQL: Documentation: 15: Chapter 55. Frontend/Backend Protocol](https://www.postgresql.org/docs/current/protocol.html)  🦢 🏗️ 
 2) 
 
+# analysis BI 
+1) [pyspark · PyPI](https://pypi.org/project/pyspark/)  [Apache Spark™ - Unified Engine for large-scale data analytics](https://spark.apache.org/)   
+2) 
 
 # security
 1) [netfilter/iptables project homepage - netfilter.org](https://www.netfilter.org/) -- https://serverfault.com/questions/1094354/how-do-i-display-the-entire-firewalld-state
