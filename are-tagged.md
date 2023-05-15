@@ -52,7 +52,13 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 41) [Photon OS 5.0 Beta is now available - VMware vSphere Blog](https://blogs.vmware.com/vsphere/2023/01/photon-5-0-beta-is-now-available.html)  💾  #flavors 
 42) [TLP - Optimize Linux Laptop Battery Life — TLP 1.5 documentation](https://linrunner.de/tlp/) 
 43) [What is FreeBSD? What Are The Pros and Cons of FreeBSD? - sunnyvalley.io](https://www.sunnyvalley.io/docs/linux-tutorials/freebsd)  📶  ⛅
-44) 
+44) according to https://www.maketecheasier.com/repair-corrupted-usb-drive-linux/ 
+```
+#sudo dd if=/dev/disk/by-id/_____YOUR-FLASH-DRIVE status=progress | gzip -c > /home/USERNAME/_____YOUR-FLASH-DRIVE_backup.img.gz
+#sudo gzip -c /home/USERNAME/_____YOUR-FLASH-DRIVE_backup.img.gz | sudo dd of=/dev/disk/by-id/_____YOUR_FLASH_DRIVE status=progress
+#sudo fsck -v -a /dev/sdc1
+```
+45)  
 
 
 # software_develpment solutions 
