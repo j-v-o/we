@@ -2,8 +2,8 @@
 - https://askubuntu.com/
 - https://unix.StackExchange.com/
 - https://serverfault.com/
-- https://dba.StackExchange.com
-- 
+- https://dba.StackExchange.com/
+- www.superUser.com/
 
 1)  [swap - How do I increase swapfile in Ubuntu 18.04? - Ask Ubuntu](https://askubuntu.com/questions/1075505/how-do-i-increase-swapfile-in-ubuntu-18-04): { [Change Swap Size in Ubuntu](https://linuxhint.com/change_swap_size_ubuntu/)  [Change swap size in Ubuntu 18.04 or newer - Bogdan Cornianu](https://bogdancornianu.com/change-swap-size-in-ubuntu/)  [How To Increase Page File Size In Linux? – Systran Box](https://www.systranbox.com/how-to-increase-page-file-size-in-linux/)  [SwapFaq - Community Help Wiki](https://help.ubuntu.com/community/SwapFaq)  [ram - Is it safe to flush the swap space? - Ask Ubuntu](https://askubuntu.com/questions/1185561/is-it-safe-to-flush-the-swap-space)  [How to change the Swappiness of your Linux system](https://www.howtoforge.com/tutorial/linux-swappiness/) } 
 ```
@@ -60,7 +60,6 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 ```
 45)  
 
-
 # software_develpment solutions 
 1) [TUN/TAP - Wikipedia](https://en.wikipedia.org/wiki/TUN/TAP)  ⚾  🥣  🚡 
 2) [Git - Book](https://git-scm.com/book/uk/v2)  🏁  { https://docs.github.com/en/get-started/quickstart/github-flow [Permission denied (publickey) | Bitbucket Cloud Cloud KB | Atlassian Documentation](https://confluence.atlassian.com/bbkb/permission-denied-publickey-302811860.html) }
@@ -74,7 +73,12 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 10) [A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/) ( [make and Makefiles](https://faculty.cs.niu.edu/~mcmahon/CS241/Notes/makefiles.html) ) #script
 11) [jBPM - Wikipedia](https://en.wikipedia.org/wiki/JBPM)  📽️ 🎡 
 12) [PEP 8 – Style Guide for Python Code | peps.python.org](https://peps.python.org/pep-0008/) { There are linters (Flake8, Pylint and others) which check your code against PEP-8 }
-13) 
+13) { https://en.wikipedia.org/wiki/Business_Process_Execution_Language; https://en.wikipedia.org/wiki/Nassi%E2%80%93Shneiderman_diagram; https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation }
+14) iPaaS https://en.wikipedia.org/wiki/Cloud-based_integration {
+- https://en.wikipedia.org/wiki/SnapLogic
+- pepperi. 
+}
+15) 
 
 # frontend
 1) [Sass: Syntactically Awesome Style Sheets](https://sass-lang.com/) ( https://www.cssportal.com/scss-to-css/ , https://json2csharp.com/css-tools/sass-to-css , https://wtools.io/uk/convert-css-to-sass )
