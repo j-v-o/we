@@ -59,7 +59,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 #sudo fsck -v -a /dev/sdc1
 ```
 45) [Finding a File Containing a Particular Text String In Linux Server - nixCraft](https://www.cyberciti.biz/faq/howto-search-find-file-for-text-string/) 
-46)  
+46)  [How to switch boot target to text or GUI in systemd Linux - nixCraft](https://www.cyberciti.biz/faq/switch-boot-target-to-text-gui-in-systemd-linux/) 
+47)  
 
 # software_develpment solutions 
 1) [TUN/TAP - Wikipedia](https://en.wikipedia.org/wiki/TUN/TAP)  ⚾  🥣  🚡 
@@ -75,18 +76,16 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 11) [jBPM - Wikipedia](https://en.wikipedia.org/wiki/JBPM)  📽️ 🎡 
 12) [PEP 8 – Style Guide for Python Code | peps.python.org](https://peps.python.org/pep-0008/) { There are linters (Flake8, Pylint and others) which check your code against PEP-8 }
 13) { https://en.wikipedia.org/wiki/Business_Process_Execution_Language; https://en.wikipedia.org/wiki/Nassi%E2%80%93Shneiderman_diagram; https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation }
-14) iPaaS https://en.wikipedia.org/wiki/Cloud-based_integration {
-- https://en.wikipedia.org/wiki/SnapLogic
-- pepperi.com. 
-}
+14) iPaaS https://en.wikipedia.org/wiki/Cloud-based_integration { https://en.wikipedia.org/wiki/SnapLogic www.pepperi.com }
 15) 
+
 
 # frontend
 1) [Sass: Syntactically Awesome Style Sheets](https://sass-lang.com/) ( https://www.cssportal.com/scss-to-css/ , https://json2csharp.com/css-tools/sass-to-css , https://wtools.io/uk/convert-css-to-sass )
 2) [XMLHttpRequest: setRequestHeader() method - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/setRequestHeader) 
 3) 
 
-# database 
+# dataBases 
 1) [PostgreSQL: Documentation: 15: Chapter 55. Frontend/Backend Protocol](https://www.postgresql.org/docs/current/protocol.html)  🦢 🏗️ 
 2) 
 
