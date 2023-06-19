@@ -63,7 +63,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 ```
 45) [Finding a File Containing a Particular Text String In Linux Server - nixCraft](https://www.cyberciti.biz/faq/howto-search-find-file-for-text-string/) 
 46)  [How to switch boot target to text or GUI in systemd Linux - nixCraft](https://www.cyberciti.biz/faq/switch-boot-target-to-text-gui-in-systemd-linux/) 
-47)  
+47)  ..and, again [Difference between /dev/console, /dev/tty, and /dev/tty0 | Baeldung on Linux](https://www.baeldung.com/linux/monitor-keyboard-drivers) 
+48)  
 
 # software_develpment solutions 
 1) [TUN/TAP - Wikipedia](https://en.wikipedia.org/wiki/TUN/TAP)  ⚾  🥣  🚡 
