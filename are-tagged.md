@@ -81,7 +81,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 12) [PEP 8 – Style Guide for Python Code | peps.python.org](https://peps.python.org/pep-0008/) { There are linters (Flake8, Pylint and others) which check your code against PEP-8 }
 13) { https://en.wikipedia.org/wiki/Business_Process_Execution_Language; https://en.wikipedia.org/wiki/Nassi%E2%80%93Shneiderman_diagram; https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation }
 14) iPaaS https://en.wikipedia.org/wiki/Cloud-based_integration { https://en.wikipedia.org/wiki/SnapLogic www.pepperi.com }
-15) 
+15) https://github.com/public-apis/public-apis/
+16) 
 
 
 # frontend
