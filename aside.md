@@ -8,4 +8,5 @@
 - [10 years as a lost laowai: where have we been, where are we going?](https://www.lostlaowai.com/blog/site-stuff/10-years-lost-laowai-going/) 
 - [I Was (Relatively) Wrong About AGI](https://cerebralab.com/I_Was_%28Relatively%29_Wrong_About_AGI?mode=about) 
 - [SysAdmin1138 Explains](https://sysadmin1138.net/mt/blog/) 
+- [Imran Chaudhri: The disappearing computer -- and a world where you can take AI everywhere](https://www.ted.com/talks/imran_chaudhri_the_disappearing_computer_and_a_world_where_you_can_take_ai_everywhere/c) TED Talk 
 - 
