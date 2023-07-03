@@ -3,4 +3,5 @@
 - https://ux.stackexchange.com/users/54669/devin
 - https://stackoverflow.com/users/594138/tom-regner
 - https://codereview.stackexchange.com/users/77409/soner-from-the-ottoman-empire
+- https://stackoverflow.com/users/1274149/kravietz
 - 
