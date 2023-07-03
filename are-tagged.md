@@ -85,7 +85,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 14) iPaaS https://en.wikipedia.org/wiki/Cloud-based_integration { https://en.wikipedia.org/wiki/SnapLogic www.pepperi.com }
 15) https://github.com/public-apis/public-apis/
 16) [An introduction to APIs | Zapier guides](https://zapier.com/resources/guides/apis)
-17) 
+17) [RESTful Web Services](https://www.crummy.com/writing/RESTful-Web-Services/) [,,pdf]
+
 
 # frontend
 1) [Sass: Syntactically Awesome Style Sheets](https://sass-lang.com/) ( https://www.cssportal.com/scss-to-css/ , https://json2csharp.com/css-tools/sass-to-css , https://wtools.io/uk/convert-css-to-sass )
