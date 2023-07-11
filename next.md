@@ -1,8 +1,10 @@
+## .. next iteration Step N+3 🌟 [ 2023 May June ]
+- English **fluent** OR **not-fluent**  
+- 
+
 ## .. let`s goto Step N+2 🌟 [ 2023 February March April ]
 - AI, GPT, bots, etc 
 - low-code, no code plaform { [The best way to build web apps without code Bubble](https://bubble.io/),  } 
-- 
-
 
 ## .. let`s goto Step N+1 🪟 [ 2022 November December 2023 January ]
 - 🏛️ https://www.slant.co/topics/6937/~voip-clients-for-linux
@@ -16,7 +18,6 @@
 - 📞 [Welcome to SIPp](https://sipp.sourceforge.net/) 
 - 🧮 [VoIP School](https://www.voip.school/courses/enrolled/1362752) 
 - http://blog.greenl.ee/2011/08/20/switching-lync-call-participants-with-ucma/ { b2bua } 
-- 
 
 ## JavaScript for backend or frontend; framework Node.js; library NPM 
 - https://runkit.com/  🫐  online tool environment
@@ -24,7 +25,6 @@
 - https://www.npmjs.com/package/the-framework  🦌 🎍 
 - [What Makes Node.js Better Than Other Languages? - Programmers.io](https://programmers.io/nodejs-programming-language/) 
 - [6 Reasons Why JavaScript Async/Await Blows Promises Away (Tutorial) | HackerNoon](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9) 
-- 
 
 
 
