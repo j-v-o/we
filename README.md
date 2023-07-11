@@ -1,4 +1,3 @@
-# we
 work-wide
 just **stub page** 
 
