@@ -4,7 +4,6 @@
 - https://webmasters.stackexchange.com/
 - 
 
-
 # linux 
 - https://askubuntu.com/
 - https://unix.StackExchange.com/
@@ -107,6 +106,10 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 2) https://www.stackscale.com/blog/guide-setting-up-ssh-keys-linux/  🉑 💂 -- https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/
 3) https://www.hostmaster.ua/dnssec/
 4) 
+
+# misc 
+1) [Досі зберігаєте файли у форматі doc? – freeUser](https://freeuser.org.ua/2015/11/still-saving-in-doc/#more-1364)
+2) 
 
 
 # hardware 
