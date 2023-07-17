@@ -91,7 +91,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 1) [Sass: Syntactically Awesome Style Sheets](https://sass-lang.com/) ( https://www.cssportal.com/scss-to-css/ , https://json2csharp.com/css-tools/sass-to-css , https://wtools.io/uk/convert-css-to-sass )
 2) [XMLHttpRequest: setRequestHeader() method - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/setRequestHeader) 
 3) [Атрибут hreflang. Що таке hreflang і як зробити сайт багатомовним?](https://holostenko.ua/uk/blog/hreflang-v-multymovnosti)
-4) [Google URL Structure Guidelines | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/crawling-indexing/url-structure)
+4) [Google URL Structure Guidelines | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/crawling-indexing/url-structure) { If your site has an infinite **calendar**, add a `nofollow` attribute to links to dynamically created future calendar pages. }
 5) 
 
 # dataBases 
