@@ -91,8 +91,15 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 1) [Sass: Syntactically Awesome Style Sheets](https://sass-lang.com/) ( https://www.cssportal.com/scss-to-css/ , https://json2csharp.com/css-tools/sass-to-css , https://wtools.io/uk/convert-css-to-sass )
 2) [XMLHttpRequest: setRequestHeader() method - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/setRequestHeader) 
 3) [Атрибут hreflang. Що таке hreflang і як зробити сайт багатомовним?](https://holostenko.ua/uk/blog/hreflang-v-multymovnosti)
-4) [Google URL Structure Guidelines | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/crawling-indexing/url-structure) { If your site has an infinite **calendar**, add a `nofollow` attribute to links to dynamically created future calendar pages. }
+4) [Google URL Structure Guidelines | Google Search Central  |  Documentation  |  Google for Developers](https://developers.google.com/search/docs/crawling-indexing/url-structure): { 
+- Consider using a `robots.txt` file to block Googlebot's access to problematic URLs. Typically, consider blocking dynamic URLs, such as URLs that generate search results, or URLs that can create infinite spaces, such as calendars. Using regular expressions in your robots.txt file can allow you to easily block large numbers of URLs.
+- If your site has an infinite **calendar**, add a `nofollow` attribute to links to dynamically created future calendar pages.
+- Wherever possible, **avoid the use of session IDs** in URLs. Consider using `cookies` instead.
+- Whenever possible, **shorten URLs** by trimming unnecessary parameters.
+- Check your site for **broken relative links**.
+}
 5) 
+
 
 # dataBases 
 1) [PostgreSQL: Documentation: 15: Chapter 55. Frontend/Backend Protocol](https://www.postgresql.org/docs/current/protocol.html)  🦢 🏗️ 
