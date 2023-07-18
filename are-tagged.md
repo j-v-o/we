@@ -63,9 +63,11 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 ```
 45) [Finding a File Containing a Particular Text String In Linux Server - nixCraft](https://www.cyberciti.biz/faq/howto-search-find-file-for-text-string/) 
 46)  [How to switch boot target to text or GUI in systemd Linux - nixCraft](https://www.cyberciti.biz/faq/switch-boot-target-to-text-gui-in-systemd-linux/) 
-47)  ..and, again [Difference between /dev/console, /dev/tty, and /dev/tty0](https://www.baeldung.com/linux/monitor-keyboard-drivers) 
+47)  ..and, again [Difference between /dev/console, /dev/tty, and /dev/tty0](https://www.baeldung.com/linux/monitor-keyboard-drivers)  🇦🇽  *️⃣
 48) [Use anacron for a better crontab | Opensource.com](https://opensource.com/article/21/2/linux-automation)  [Cron Vs Anacron: How to Setup Anacron on Linux (With an Example)](https://www.thegeekstuff.com/2011/05/anacron-examples/)  ⏰  🍎
-49)  
+49)  [Interactive Vim tutorial](https://www.openvim.com/)
+50)  
+
 
 # software_develpment solutions 
 1) [TUN/TAP - Wikipedia](https://en.wikipedia.org/wiki/TUN/TAP)  ⚾  🥣  🚡 
