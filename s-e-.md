@@ -6,4 +6,5 @@
 - https://stackoverflow.com/users/1274149/kravietz
 - https://stackoverflow.com/users/3062438/damien-layershift
 - https://ux.stackexchange.com/users/164315/leo-wattenberg
+- https://webmasters.stackexchange.com/users/75842/patrick-mevzek
 - 
