@@ -10,4 +10,5 @@
 - [SysAdmin1138 Explains](https://sysadmin1138.net/mt/blog/) 
 - [Imran Chaudhri: The disappearing computer -- and a world where you can take AI everywhere](https://www.ted.com/talks/imran_chaudhri_the_disappearing_computer_and_a_world_where_you_can_take_ai_everywhere/c) TED Talk 
 - [Kids wooden furniture and climbing toys - Woodandhearts - WoodandHearts](https://woodandhearts.com/)
+- [Typo sends millions of US military emails to Russian ally Mali - BBC News](https://www.bbc.com/news/world-us-canada-66226873)
 - 
