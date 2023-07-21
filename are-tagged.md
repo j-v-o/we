@@ -105,7 +105,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 
 # dataBases 
 1) [PostgreSQL: Documentation: 15: Chapter 55. Frontend/Backend Protocol](https://www.postgresql.org/docs/current/protocol.html)  🦢 🏗️ 
-2) 
+2) [Learn SQL: SQL Query examples](https://www.sqlshack.com/learn-sql-sql-query-examples/)
+3) 
 
 # analysis BI 
 1) [pyspark · PyPI](https://pypi.org/project/pyspark/)  [Apache Spark™ - Unified Engine for large-scale data analytics](https://spark.apache.org/)   
