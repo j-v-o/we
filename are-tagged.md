@@ -100,7 +100,11 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 - Whenever possible, **shorten URLs** by trimming unnecessary parameters.
 - Check your site for **broken relative links**.
 }
-5) 
+5) [Hurl - Run and Test HTTP Requests](https://hurl.dev/)
+6) 
+  
+  
+
 
 
 # dataBases 
