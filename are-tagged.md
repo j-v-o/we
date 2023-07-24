@@ -101,7 +101,9 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 - Check your site for **broken relative links**.
 }
 5) [Hurl - Run and Test HTTP Requests](https://hurl.dev/)
-6) 
+
+6) [Web Developer in UA](https://web-developer.in.ua/)
+7)    
   
   
 
