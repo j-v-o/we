@@ -87,6 +87,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 15) https://github.com/public-apis/public-apis/
 16) [An introduction to APIs | Zapier guides](https://zapier.com/resources/guides/apis)
 17) [RESTful Web Services](https://www.crummy.com/writing/RESTful-Web-Services/) [,,pdf]
+18) https://en.wikipedia.org/wiki/SOLID
+19) 
 
 
 # frontend
