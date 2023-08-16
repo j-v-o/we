@@ -113,18 +113,21 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 3) [Посібник зі стиль-коду SQL · SQL style guide by Simon Holywell](https://www.sqlstyle.guide/ua/)
 4) [SQL JOIN USING - A Beginner's Guide - Vlad Mihalcea](https://vladmihalcea.com/sql-join-using/)
 5) [Overview of the SQL ROW_NUMBER function](https://www.sqlshack.com/overview-of-the-sql-row-number-function/)
-6) 
+6) [SQL | WITH clause - GeeksforGeeks](https://www.geeksforgeeks.org/sql-with-clause/)
+7) 
 
 
 # analysis BI 
 1) [pyspark · PyPI](https://pypi.org/project/pyspark/)  [Apache Spark™ - Unified Engine for large-scale data analytics](https://spark.apache.org/)   
 2) 
 
+
 # security
 1) [netfilter/iptables project homepage - netfilter.org](https://www.netfilter.org/) -- https://serverfault.com/questions/1094354/how-do-i-display-the-entire-firewalld-state
 2) https://www.stackscale.com/blog/guide-setting-up-ssh-keys-linux/  🉑 💂 -- https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/
 3) https://www.hostmaster.ua/dnssec/
 4) 
+
 
 # misc 
 1) [Досі зберігаєте файли у форматі doc? – freeUser](https://freeuser.org.ua/2015/11/still-saving-in-doc/#more-1364)
