@@ -6,7 +6,7 @@
 - English **fluent** OR **not-fluent**  
 - VoIP, CRM, etc
 
-## .. let`s goto Step N+2 🌟 [ 2023 February March April ]
+## .. let`s goto Step N+2 [ 2023 February March April ]
 - AI, GPT, bots, etc 
 - low-code, no code plaform { [The best way to build web apps without code Bubble](https://bubble.io/),  } 
 
