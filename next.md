@@ -1,6 +1,10 @@
+## .. N+4 ⭐ [ 2023 July August ]
+- Unix\Linux
+- AWS, Azure, Google cloud
+
 ## .. next iteration Step N+3 🌟 [ 2023 May June ]
 - English **fluent** OR **not-fluent**  
-- 
+- VoIP, CRM, etc
 
 ## .. let`s goto Step N+2 🌟 [ 2023 February March April ]
 - AI, GPT, bots, etc 
