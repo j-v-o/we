@@ -66,7 +66,12 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 47)  ..and, again [Difference between /dev/console, /dev/tty, and /dev/tty0](https://www.baeldung.com/linux/monitor-keyboard-drivers)  🇦🇽  *️⃣
 48) [Use anacron for a better crontab | Opensource.com](https://opensource.com/article/21/2/linux-automation)  [Cron Vs Anacron: How to Setup Anacron on Linux (With an Example)](https://www.thegeekstuff.com/2011/05/anacron-examples/)  ⏰  🍎
 49)  [Interactive Vim tutorial](https://www.openvim.com/)
-50)  
+50)  bash functions {
+- [Bash Function & How to Use It {Variables, Arguments, Return}](https://phoenixnap.com/kb/bash-function)
+- [Bash Functions | Linuxize](https://linuxize.com/post/bash-functions/#google_vignette)
+- [Bash Functions in Linux | Baeldung on Linux](https://www.baeldung.com/linux/bash-functions) 
+}
+52)  
 
 
 # software_develpment solutions 
