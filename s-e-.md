@@ -16,5 +16,6 @@
 - https://unix.stackexchange.com/users/155832/400-the-cat
 - https://ux.stackexchange.com/users/90111/andre-dickson
 - https://ux.stackexchange.com/users/597/adrianh
+- https://softwareengineering.stackexchange.com/users/7313/peterchen
 - 
 
