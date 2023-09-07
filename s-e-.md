@@ -1,5 +1,6 @@
 # 2023
 - https://webmasters.stackexchange.com/users/1253/john-conde
+- https://ux.stackexchange.com/users/92082/nick-groeneveld
 - https://webmasters.stackexchange.com/users/28389/dan
 - https://ux.stackexchange.com/users/54669/devin
 - https://stackoverflow.com/users/594138/tom-regner
