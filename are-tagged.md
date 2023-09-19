@@ -142,7 +142,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 
 # misc 
 1) [Досі зберігаєте файли у форматі doc? – freeUser](https://freeuser.org.ua/2015/11/still-saving-in-doc/#more-1364)
-2) 
+2) [DMARC, DKIM, & SPF Explained (Email Authentication 101) - Valimail](https://www.valimail.com/blog/dmarc-dkim-spf-explained/)
+3) 
 
 
 # hardware 
