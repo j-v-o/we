@@ -97,7 +97,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 17) [RESTful Web Services](https://www.crummy.com/writing/RESTful-Web-Services/) [,,pdf]
 18) https://en.wikipedia.org/wiki/SOLID
 19) [Sauce Labs: Cross Browser Testing, Selenium Testing & Mobile Testing](https://saucelabs.com/)
-20) 
+20) [Low-Code Test Automation that Scales | mabl](https://www.mabl.com/)
+21) 
 
 
 # frontend
