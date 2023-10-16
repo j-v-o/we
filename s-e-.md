@@ -21,6 +21,7 @@
 - https://ux.stackexchange.com/users/3764/pa%c5%adlo-ebermann
 - [Helge Wadewitz - UI UX Designer - Marketing team - home24 SE](https://www.xing.com/profile/Helge_Wadewitz)
 - https://ux.stackexchange.com/users/17412/new-alexandria
+- https://ux.stackexchange.com/users/33199/grg
 - 
 
 # 2022
