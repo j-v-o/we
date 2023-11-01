@@ -74,7 +74,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 # devOPS
 1) [Proxmox VE VS Vagrant - compare differences & reviews?](https://www.saashub.com/compare-proxmox-vs-vagrant)
 2) [Best Server Virtualization Software - DNSstuff](https://www.dnsstuff.com/server-virtualization-software)
-3)  
+3) [Home | NetBox](https://demo.netbox.dev/)
+4)  
 
 
 # software_develpment solutions 
