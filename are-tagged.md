@@ -2,7 +2,6 @@
 - https://dba.StackExchange.com/
 - www.superUser.com/
 - https://webmasters.stackexchange.com/
-- 
 
 # linux 
 - https://askubuntu.com/
