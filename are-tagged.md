@@ -125,7 +125,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 4) [SQL JOIN USING - A Beginner's Guide - Vlad Mihalcea](https://vladmihalcea.com/sql-join-using/)
 5) [Overview of the SQL ROW_NUMBER function](https://www.sqlshack.com/overview-of-the-sql-row-number-function/)
 6) [SQL | WITH clause - GeeksforGeeks](https://www.geeksforgeeks.org/sql-with-clause/)
-7) 
+7) [Database Commands — MongoDB Manual](https://www.mongodb.com/docs/manual/reference/command/)
+8) 
 
 
 # analysis BI 
