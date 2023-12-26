@@ -75,7 +75,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 2) [Best Server Virtualization Software - DNSstuff](https://www.dnsstuff.com/server-virtualization-software)
 3) [Home | NetBox](https://demo.netbox.dev/)
 4) (https://github.com/canonical/lxd) 
-5)  
+5)  [Marathon: A container orchestration platform for Mesos and DC/OS](https://mesosphere.github.io/marathon/)
+6)  
 
 
 # software_develpment solutions 
