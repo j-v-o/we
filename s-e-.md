@@ -1,5 +1,6 @@
 # 2024
 - https://askubuntu.com/users/307670/graham
+- https://superuser.com/users/401553/drmoishe-pippik
 
 # 2023
 - https://webmasters.stackexchange.com/users/1253/john-conde
