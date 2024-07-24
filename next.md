@@ -6,7 +6,7 @@
 - Unix\Linux
 - AWS, Azure, Google cloud
 
-## .. next iteration Step N+3 🌟 [ 2023 May June ]
+## .. next_iteration Step N+3 🌟 [ 2023 May June ]
 - English **fluent** OR **not-fluent**  
 - VoIP, CRM, etc
 
@@ -35,13 +35,11 @@
 - [6 Reasons Why JavaScript Async/Await Blows Promises Away (Tutorial) | HackerNoon](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9) 
 
 ## .. let`s goto Step N+2 🪟 [ 2023 September ]
-- e.mail e-mail e!mail
+- e.mail e-mail e!mail {it's all about old technology}
 - momentum
 
 ## ... the step N+3 is current [ 2023 November ]
 - <job-searching>
-- 
-
 
 
 ___
