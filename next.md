@@ -1,5 +1,5 @@
 ## .. N+5 🤯 [ 2024_July ] hot weather season 
-- API course
+- API course { json xml cURL }
 - 
 
 ## .. N+4 ⭐ [ 2023_July_August ]
