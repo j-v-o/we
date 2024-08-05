@@ -11,5 +11,5 @@
 5) 
 
 ## json
-1) https://stedolan.github.io/jq  
+1) https://stedolan.github.io/jq  jq - commandline JSON processor [version 1.6] 
 2) 
