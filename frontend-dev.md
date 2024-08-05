@@ -10,3 +10,6 @@
 4) [5 Ways to Make HTTP Requests in PHP](https://www.twilio.com/blog/5-ways-to-make-http-requests-in-php) 
 5) 
 
+## json
+1) https://stedolan.github.io/jq  
+2) 
