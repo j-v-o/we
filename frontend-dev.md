@@ -13,3 +13,7 @@
 ## json
 1) https://stedolan.github.io/jq  jq - commandline JSON processor [version 1.6] 
 2) 
+
+## html
+1) embedded YT with **fullscreen_option** ```<iframe allowfullscreen src="https://www.youtube.com/embed/?list=UULFZXXi0dM4r7-sKFNo1kGlwg" width="480" height="400"></iframe>```
+2)  
