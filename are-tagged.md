@@ -115,10 +115,11 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 - Check your site for **broken relative links**.
 }
 5) [Hurl - Run and Test HTTP Requests](https://hurl.dev/)
-6) [Web Developer in UA](https://web-developer.in.ua/)  🇺🇦 🕸️ 
-7) [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)   
+6) [Web Developer in UA](https://web-developer.in.ua/)  🇺🇦 🕸️
+7) [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)
+8) https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA 
 
-
+  
 # dataBases 
 1) [PostgreSQL: Documentation: 15: Chapter 55. Frontend/Backend Protocol](https://www.postgresql.org/docs/current/protocol.html)  🦢 🏗️ 
 2) [Learn SQL: SQL Query examples](https://www.sqlshack.com/learn-sql-sql-query-examples/)
@@ -127,7 +128,6 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 5) [Overview of the SQL ROW_NUMBER function](https://www.sqlshack.com/overview-of-the-sql-row-number-function/)
 6) [SQL | WITH clause - GeeksforGeeks](https://www.geeksforgeeks.org/sql-with-clause/)
 7) [Database Commands — MongoDB Manual](https://www.mongodb.com/docs/manual/reference/command/)
-8) 
 
 
 # analysis BI 
