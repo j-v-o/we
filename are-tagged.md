@@ -145,7 +145,7 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 # misc 
 1) [Досі зберігаєте файли у форматі doc? – freeUser](https://freeuser.org.ua/2015/11/still-saving-in-doc/#more-1364)
 2) [DMARC, DKIM, & SPF Explained (Email Authentication 101) - Valimail](https://www.valimail.com/blog/dmarc-dkim-spf-explained/)
-3) https://answers.microsoft.com/en-us/windows/forum/all/how-do-i-completely-delete-all-data-releted-to-a/15fa71d0-3065-4c39-adb2-53b6c04e1257
+3) https://answers.microsoft.com/en-us/windows/forum/all/how-do-i-completely-delete-all-data-releted-to-a/15fa71d0-3065-4c39-adb2-53b6c04e1257  https://www.quora.com/How-do-I-reset-just-a-single-account-profile-on-Windows-11-to-factory-settings-such-that-opening-that-account-will-look-fresh-and-new-like-Im-just-opening-it-for-the-first-time  
 4) 
 
 
