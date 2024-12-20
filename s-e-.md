@@ -8,6 +8,7 @@
 - https://serverfault.com/users/96883/artfulrobot
 - https://serverfault.com/users/3775/sec
 - https://serverfault.com/users/256639/yagmoth555
+- https://unix.stackexchange.com/users/1131/maxschlepzig
 - 
 
 # 2023
