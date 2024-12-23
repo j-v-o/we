@@ -133,7 +133,8 @@ speaker-test -t sine -f 1000 -l 1 & sleep .3 && kill -9 $!
 
 # analysis BI 
 1) [pyspark · PyPI](https://pypi.org/project/pyspark/)  [Apache Spark™ - Unified Engine for large-scale data analytics](https://spark.apache.org/)   
-2) 
+2) [Highcharts - Interactive Charting Library for Developers](https://www.highcharts.com/)
+3) 
 
 
 # security
