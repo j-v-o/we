@@ -15,5 +15,5 @@
 - [Скевоморфізм — Вікіпедія](https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%B2%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D1%96%D0%B7%D0%BC)
 - [fine whining & breathing – conversations with theodore](https://finewhiningandbreathing.wordpress.com/)
 - [Ieva Baltmiskyte - YouTube](https://www.youtube.com/@IevaBaltmiskyte)
-- [Transcript for Elon Musk: Neuralink and the Future of Humanity | Lex Fridman Podcast #438 - Lex Fridman](https://lexfridman.com/elon-musk-and-neuralink-team-transcript/)
+- [Transcript for Elon Musk: Neuralink and the Future of Humanity | Podcast #438](https://lexfridman.com/elon-musk-and-neuralink-team-transcript/) Lex Fridman  
 - 
