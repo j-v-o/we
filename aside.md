@@ -4,7 +4,7 @@
 - https://tunein.com/radio/Radio-Jazz-Ukraine-1046-s305859/
 - [The Internet Classics Archive | The Art of War by Sun Tzu](http://classics.mit.edu/Tzu/artwar.html) 
 - https://www.mom.gov.sg/newsroom/press-releases/2022/0408-public-holidays-for-2023
-- (( tmp https://www.youtube.com/watch?v=IO3H9fSOYKs ))
+- (( tmp https://www.youtube.com/watch?v=IO3H9fSOYKs Jalangi Team 01 )) just another World on the Earth 
 - [10 years as a lost laowai: where have we been, where are we going?](https://www.lostlaowai.com/blog/site-stuff/10-years-lost-laowai-going/) 
 - [I Was (Relatively) Wrong About AGI](https://cerebralab.com/I_Was_%28Relatively%29_Wrong_About_AGI?mode=about) 
 - [SysAdmin1138 Explains](https://sysadmin1138.net/mt/blog/) 
