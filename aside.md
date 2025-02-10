@@ -9,11 +9,11 @@
 - [I Was (Relatively) Wrong About AGI](https://cerebralab.com/I_Was_%28Relatively%29_Wrong_About_AGI?mode=about) 
 - [SysAdmin1138 Explains](https://sysadmin1138.net/mt/blog/) 
 - [Imran Chaudhri: The disappearing computer -- and a world where you can take AI everywhere](https://www.ted.com/talks/imran_chaudhri_the_disappearing_computer_and_a_world_where_you_can_take_ai_everywhere/c) TED Talk 
-- [Kids wooden furniture and climbing toys - Woodandhearts - WoodandHearts](https://woodandhearts.com/)
-- [Typo sends millions of US military emails to Russian ally Mali - BBC News](https://www.bbc.com/news/world-us-canada-66226873)
-- [Lifting the Fog of War](https://archive.nytimes.com/www.nytimes.com/books/first/o/owens-fog.html)
+- [Kids wooden furniture and climbing toys - Woodandhearts](https://woodandhearts.com/)
+- [Typo sends millions of US military emails to Russian ally Mali](https://www.bbc.com/news/world-us-canada-66226873) BBC News 
+- [Lifting the Fog of War](https://archive.nytimes.com/www.nytimes.com/books/first/o/owens-fog.html) NY Times 
 - [Скевоморфізм — Вікіпедія](https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%B2%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D1%96%D0%B7%D0%BC)
 - [fine whining & breathing – conversations with theodore](https://finewhiningandbreathing.wordpress.com/)
-- [Ieva Baltmiskyte - YouTube](https://www.youtube.com/@IevaBaltmiskyte)
+- [Ieva Baltmiskyte - 🎸 ](https://www.youtube.com/@IevaBaltmiskyte)
 - [Transcript for Elon Musk: Neuralink and the Future of Humanity | Podcast #438](https://lexfridman.com/elon-musk-and-neuralink-team-transcript/) Lex Fridman  
 - 
