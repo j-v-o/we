@@ -1,3 +1,7 @@
+# 2025  
+- https://unix.stackexchange.com/users/2003/deostroll
+- 
+
 # 2024
 - https://askubuntu.com/users/307670/graham
 - https://superuser.com/users/401553/drmoishe-pippik
@@ -9,8 +13,7 @@
 - https://serverfault.com/users/3775/sec
 - https://serverfault.com/users/256639/yagmoth555
 - https://unix.stackexchange.com/users/1131/maxschlepzig
-- 
-
+  
 # 2023
 - https://webmasters.stackexchange.com/users/1253/john-conde
 - https://ux.stackexchange.com/users/92082/nick-groeneveld
