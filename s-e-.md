@@ -1,5 +1,6 @@
 # 2025  
 - https://unix.stackexchange.com/users/2003/deostroll
+- https://unix.stackexchange.com/users/126755/vlastimil-buri%c3%a1n
 - 
 
 # 2024
